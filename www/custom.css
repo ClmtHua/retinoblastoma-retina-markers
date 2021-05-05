@@ -1,0 +1,23 @@
+.footer { 
+    position:relative;
+    width:100%;
+    background:white;
+    color:black;
+    z-index: -1000;
+    height: 100px;  /* footer height */
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
+    margin-top: 20px; /* space between content and footer */
+    box-sizing: border-box;
+}
+
+.wrap {
+    width: auto;
+    height: auto;
+    margin: 0 auto -120px; /* footer height + space */
+    min-height: 100%;
+    padding: 0 0 120px; /* footer height + space */
+    box-sizing: content-box;
+    overflow: auto;
+}
