@@ -1,0 +1,2116 @@
+gene,category,subcategory
+TFF1,Genes related to Figures,Fig. 3a
+CD24,Genes related to Figures,Fig. 3a
+EBF3,Genes related to Figures,Fig. 3a
+SOX11,Genes related to Figures,Fig. 3a
+ROBO1,Genes related to Figures,Fig. 3a
+GAP43,Genes related to Figures,Fig. 3a
+DCX,Genes related to Figures,Fig. 3a
+PCDHB10,Genes related to Figures,Fig. 3a
+STMN2,Genes related to Figures,Fig. 3a
+POU4F2,Genes related to Figures,Fig. 3a
+EBF1,Genes related to Figures,Fig. 3a
+EGF,Genes related to Figures,Fig. 3a
+GUCA1C,Genes related to Figures,Fig. 3a
+TPBG,Genes related to Figures,Fig. 3a
+GUCA1B,Genes related to Figures,Fig. 3a
+GNAT2,Genes related to Figures,Fig. 3a
+ARR3,Genes related to Figures,Fig. 3a
+GNG2,Genes related to Figures,Fig. 3a
+GUCA1A,Genes related to Figures,Fig. 3a
+PDE6G,Genes related to Figures,Fig. 3a
+PDE6H,Genes related to Figures,Fig. 3a
+OPN1SW,Genes related to Figures,Fig. 3a
+GUCA1C,Genes related to Figures,Fig. 3e (upper panel)
+ARR3,Genes related to Figures,Fig. 3e (upper panel)
+GNAT2,Genes related to Figures,Fig. 3e (upper panel)
+OPN1SW,Genes related to Figures,Fig. 3e (upper panel)
+PDE6H,Genes related to Figures,Fig. 3e (upper panel)
+GNGT2,Genes related to Figures,Fig. 3e (upper panel)
+PDE6C,Genes related to Figures,Fig. 3e (upper panel)
+GNB3,Genes related to Figures,Fig. 3e (upper panel)
+PEX5L,Genes related to Figures,Fig. 3e (upper panel)
+SLC17A7,Genes related to Figures,Fig. 3e (upper panel)
+TTR,Genes related to Figures,Fig. 3e (upper panel)
+CCDC136,Genes related to Figures,Fig. 3e (upper panel)
+RORA,Genes related to Figures,Fig. 3e (upper panel)
+SYP,Genes related to Figures,Fig. 3e (upper panel)
+XRCC4,Genes related to Figures,Fig. 3e (upper panel)
+THRB,Genes related to Figures,Fig. 3e (upper panel)
+GRK7,Genes related to Figures,Fig. 3e (upper panel)
+RXRG,Genes related to Figures,Fig. 3e (upper panel)
+RORB,Genes related to Figures,Fig. 3e (upper panel)
+SALL3,Genes related to Figures,Fig. 3e (upper panel)
+ONECUT1,Genes related to Figures,Fig. 3e (upper panel)
+RAMP1,Genes related to Figures,Fig. 3e (upper panel)
+EBF3,Genes related to Figures,Fig. 3e (lower panel)
+SOX11,Genes related to Figures,Fig. 3e (lower panel)
+GAP43,Genes related to Figures,Fig. 3e (lower panel)
+POU4F2,Genes related to Figures,Fig. 3e (lower panel)
+STMN2,Genes related to Figures,Fig. 3e (lower panel)
+ELAVL3,Genes related to Figures,Fig. 3e (lower panel)
+ONECUT1,Genes related to Figures,Fig. 3e (lower panel)
+EBF1,Genes related to Figures,Fig. 3e (lower panel)
+OTX2,Genes related to Figures,Fig. 4a
+CRX,Genes related to Figures,Fig. 4a
+THRB,Genes related to Figures,Fig. 4a
+RXRG,Genes related to Figures,Fig. 4a
+PDE6H,Genes related to Figures,Fig. 4a
+GNAT2,Genes related to Figures,Fig. 4a
+ARR3,Genes related to Figures,Fig. 4a
+GUCA1C,Genes related to Figures,Fig. 4a
+POU4F2,Genes related to Figures,Fig. 4a
+EBF3,Genes related to Figures,Fig. 4a
+EBF1,Genes related to Figures,Fig. 4a
+GAP43,Genes related to Figures,Fig. 4a
+TFF1,Genes related to Figures,Fig. 5b
+GNGT1,Genes related to Figures,Fig. 5b
+GAP43,Genes related to Figures,Fig. 5b
+PDC,Genes related to Figures,Fig. 5b
+ARR3,Genes related to Figures,Fig. 5b
+PDE6H,Genes related to Figures,Fig. 5b
+CENPF,Genes related to Figures,Fig. 5b
+TOP2A,Genes related to Figures,Fig. 5b
+MKI67,Genes related to Figures,Fig. 5b
+BNIP3,Genes related to Figures,Fig. 5b
+HSP90AA1,Genes related to Figures,Fig. 5b
+LDHA,Genes related to Figures,Fig. 5b
+CDK1,Genes related to Figures,Fig. 5b
+CD74,Genes related to Figures,Fig. 5b
+HLA-DRA,Genes related to Figures,Fig. 5b
+C1QA,Genes related to Figures,Fig. 5b
+IL32,Genes related to Figures,Fig. 5b
+TRAC,Genes related to Figures,Fig. 5b
+CD3D,Genes related to Figures,Fig. 5b
+CRX,Genes related to Figures,Fig. 5c
+ARR3,Genes related to Figures,Fig. 5c
+EBF3,Genes related to Figures,Fig. 5c
+DCX,Genes related to Figures,Fig. 5c
+BNIP3,Genes related to Figures,Fig. 5c
+CD3D,Genes related to Figures,Fig. 5c
+OTX2,Genes related to Figures,Fig. 5c
+GUCA1C,Genes related to Figures,Fig. 5c
+GAP43,Genes related to Figures,Fig. 5c
+MKI67,Genes related to Figures,Fig. 5c
+CD14,Genes related to Figures,Fig. 5c
+ARR3,Genes related to Figures,Fig. 5e
+CRX,Genes related to Figures,Fig. 5e
+EBF3,Genes related to Figures,Fig. 5e
+GAP43,Genes related to Figures,Fig. 5e
+MYCN,Cited in the article,Retinoblastoma related genes
+BCOR,Cited in the article,Retinoblastoma related genes
+RB1,Cited in the article,Retinoblastoma related genes
+ARID1A,Cited in the article,Retinoblastoma related genes
+EBF3,Cited in the article,neuronal/ganglion marker
+DCX,Cited in the article,neuronal/ganglion marker
+ROBO1,Cited in the article,neuronal/ganglion marker
+PCDHB10,Cited in the article,neuronal/ganglion marker
+SOX11,Cited in the article,neuronal/ganglion marker
+GAP43,Cited in the article,neuronal/ganglion marker
+STMN2,Cited in the article,neuronal/ganglion marker
+POU4F2,Cited in the article,neuronal/ganglion marker
+EBF1,Cited in the article,neuronal/ganglion marker
+MDM4,Cited in the article,Retinoblastoma related genes
+MIR17HG,Cited in the article,Retinoblastoma related genes
+SKP2,Cited in the article,Retinoblastoma related genes
+RBL2,Cited in the article,Retinoblastoma related genes
+TFF1,DEG (Table S3),Subtype 2
+CD24,DEG (Table S3),Subtype 2
+EBF3,DEG (Table S3),Subtype 2
+DCX,DEG (Table S3),Subtype 2
+ROBO1,DEG (Table S3),Subtype 2
+LINC01933,DEG (Table S3),Subtype 2
+ST6GALNAC5,DEG (Table S3),Subtype 2
+DPP10-AS1,DEG (Table S3),Subtype 2
+ZFPM2,DEG (Table S3),Subtype 2
+PRAME,DEG (Table S3),Subtype 2
+BCL11A,DEG (Table S3),Subtype 2
+DPP10,DEG (Table S3),Subtype 2
+RAMP1,DEG (Table S3),Subtype 2
+SOX11,DEG (Table S3),Subtype 2
+GAP43,DEG (Table S3),Subtype 2
+INSM2,DEG (Table S3),Subtype 2
+CA10,DEG (Table S3),Subtype 2
+TPH1,DEG (Table S3),Subtype 2
+PCDHB16,DEG (Table S3),Subtype 2
+ADRA2A,DEG (Table S3),Subtype 2
+PLPPR5,DEG (Table S3),Subtype 2
+PCDHB10,DEG (Table S3),Subtype 2
+SATB2,DEG (Table S3),Subtype 2
+FAT3,DEG (Table S3),Subtype 2
+RNF182,DEG (Table S3),Subtype 2
+ZDHHC22,DEG (Table S3),Subtype 2
+SIMC1,DEG (Table S3),Subtype 2
+SSTR2,DEG (Table S3),Subtype 2
+CTCFL,DEG (Table S3),Subtype 2
+GALNT7,DEG (Table S3),Subtype 2
+POU4F2,DEG (Table S3),Subtype 2
+SH3BP5,DEG (Table S3),Subtype 2
+PCDHB2,DEG (Table S3),Subtype 2
+HS3ST4,DEG (Table S3),Subtype 2
+ROBO3,DEG (Table S3),Subtype 2
+RSPO1,DEG (Table S3),Subtype 2
+SLC16A9,DEG (Table S3),Subtype 2
+CCDC88C,DEG (Table S3),Subtype 2
+NEFM,DEG (Table S3),Subtype 2
+CTNND2,DEG (Table S3),Subtype 2
+EDIL3,DEG (Table S3),Subtype 2
+MDK,DEG (Table S3),Subtype 2
+NSG1,DEG (Table S3),Subtype 2
+STMN2,DEG (Table S3),Subtype 2
+BASP1,DEG (Table S3),Subtype 2
+TSPAN11,DEG (Table S3),Subtype 2
+UGT8,DEG (Table S3),Subtype 2
+H2AFY2,DEG (Table S3),Subtype 2
+TCERG1L,DEG (Table S3),Subtype 2
+SPTBN2,DEG (Table S3),Subtype 2
+DLL3,DEG (Table S3),Subtype 2
+GSTA4,DEG (Table S3),Subtype 2
+ZNF695,DEG (Table S3),Subtype 2
+PDE9A,DEG (Table S3),Subtype 2
+SLC10A4,DEG (Table S3),Subtype 2
+OSR2,DEG (Table S3),Subtype 2
+F2R,DEG (Table S3),Subtype 2
+SYT6,DEG (Table S3),Subtype 2
+VCAN,DEG (Table S3),Subtype 2
+SSBP3,DEG (Table S3),Subtype 2
+HSD17B11,DEG (Table S3),Subtype 2
+MLLT3,DEG (Table S3),Subtype 2
+TMEM246,DEG (Table S3),Subtype 2
+IGFBPL1,DEG (Table S3),Subtype 2
+NKAIN1,DEG (Table S3),Subtype 2
+LMO4,DEG (Table S3),Subtype 2
+TMPRSS3,DEG (Table S3),Subtype 2
+PCDHB5,DEG (Table S3),Subtype 2
+RCOR2,DEG (Table S3),Subtype 2
+RAB33A,DEG (Table S3),Subtype 2
+ELAVL3,DEG (Table S3),Subtype 2
+FAM155A,DEG (Table S3),Subtype 2
+KIF14,DEG (Table S3),Subtype 2
+CHODL,DEG (Table S3),Subtype 2
+TEX14,DEG (Table S3),Subtype 2
+GPR161,DEG (Table S3),Subtype 2
+ZNF124,DEG (Table S3),Subtype 2
+ESAM,DEG (Table S3),Subtype 2
+VANGL2,DEG (Table S3),Subtype 2
+ZIC2,DEG (Table S3),Subtype 2
+CHST8,DEG (Table S3),Subtype 2
+SNRPE,DEG (Table S3),Subtype 2
+ID1,DEG (Table S3),Subtype 2
+ASXL3,DEG (Table S3),Subtype 2
+LRRN1,DEG (Table S3),Subtype 2
+ASPM,DEG (Table S3),Subtype 2
+IGDCC3,DEG (Table S3),Subtype 2
+WASF1,DEG (Table S3),Subtype 2
+DDIT4L,DEG (Table S3),Subtype 2
+CERS6,DEG (Table S3),Subtype 2
+DCC,DEG (Table S3),Subtype 2
+LRRC4,DEG (Table S3),Subtype 2
+NKX3-2,DEG (Table S3),Subtype 2
+TBR1,DEG (Table S3),Subtype 2
+HS3ST5,DEG (Table S3),Subtype 2
+NTF3,DEG (Table S3),Subtype 2
+ASAP1,DEG (Table S3),Subtype 2
+SLC27A6,DEG (Table S3),Subtype 2
+ALCAM,DEG (Table S3),Subtype 2
+ZMIZ1,DEG (Table S3),Subtype 2
+TDRD7,DEG (Table S3),Subtype 1
+RP1L1,DEG (Table S3),Subtype 1
+SCRG1,DEG (Table S3),Subtype 1
+SPINK4,DEG (Table S3),Subtype 1
+GBP1,DEG (Table S3),Subtype 1
+GLDC,DEG (Table S3),Subtype 1
+MAP7,DEG (Table S3),Subtype 1
+RHO,DEG (Table S3),Subtype 1
+IFI30,DEG (Table S3),Subtype 1
+TRIM22,DEG (Table S3),Subtype 1
+RASGRP1,DEG (Table S3),Subtype 1
+RGS1,DEG (Table S3),Subtype 1
+TRAC,DEG (Table S3),Subtype 1
+PCP4,DEG (Table S3),Subtype 1
+MYO3B,DEG (Table S3),Subtype 1
+ANKRD33,DEG (Table S3),Subtype 1
+CCL2,DEG (Table S3),Subtype 1
+TYROBP,DEG (Table S3),Subtype 1
+LYN,DEG (Table S3),Subtype 1
+SRGN,DEG (Table S3),Subtype 1
+APOE,DEG (Table S3),Subtype 1
+SELENOP,DEG (Table S3),Subtype 1
+CX3CR1,DEG (Table S3),Subtype 1
+LRRC39,DEG (Table S3),Subtype 1
+HLA-C,DEG (Table S3),Subtype 1
+IQGAP2,DEG (Table S3),Subtype 1
+HCN1,DEG (Table S3),Subtype 1
+FAM107A,DEG (Table S3),Subtype 1
+GPNMB,DEG (Table S3),Subtype 1
+DAB2,DEG (Table S3),Subtype 1
+GCA,DEG (Table S3),Subtype 1
+SGIP1,DEG (Table S3),Subtype 1
+SERPINA3,DEG (Table S3),Subtype 1
+NTM,DEG (Table S3),Subtype 1
+DTX3L,DEG (Table S3),Subtype 1
+LOC107985194,DEG (Table S3),Subtype 1
+DKK3,DEG (Table S3),Subtype 1
+RTBDN,DEG (Table S3),Subtype 1
+GREM2,DEG (Table S3),Subtype 1
+IRF9,DEG (Table S3),Subtype 1
+PRSS33,DEG (Table S3),Subtype 1
+CRYM,DEG (Table S3),Subtype 1
+RDH12,DEG (Table S3),Subtype 1
+HLA-B,DEG (Table S3),Subtype 1
+MYO5B,DEG (Table S3),Subtype 1
+USH2A,DEG (Table S3),Subtype 1
+C1QA,DEG (Table S3),Subtype 1
+ABCA4,DEG (Table S3),Subtype 1
+HOPX,DEG (Table S3),Subtype 1
+CD19,DEG (Table S3),Subtype 1
+OPN1SW,DEG (Table S3),Subtype 1
+MYL4,DEG (Table S3),Subtype 1
+IFI6,DEG (Table S3),Subtype 1
+DAPL1,DEG (Table S3),Subtype 1
+ANKRD6,DEG (Table S3),Subtype 1
+LYZ,DEG (Table S3),Subtype 1
+S100A8,DEG (Table S3),Subtype 1
+RS1,DEG (Table S3),Subtype 1
+PKIB,DEG (Table S3),Subtype 1
+IMPDH1,DEG (Table S3),Subtype 1
+SEC14L5,DEG (Table S3),Subtype 1
+VAMP8,DEG (Table S3),Subtype 1
+HLA-DMA,DEG (Table S3),Subtype 1
+GRAMD2B,DEG (Table S3),Subtype 1
+PRR16,DEG (Table S3),Subtype 1
+TDRG1,DEG (Table S3),Subtype 1
+MAMDC2,DEG (Table S3),Subtype 1
+PRPH2,DEG (Table S3),Subtype 1
+GUCA1A,DEG (Table S3),Subtype 1
+CD14,DEG (Table S3),Subtype 1
+C1QC,DEG (Table S3),Subtype 1
+SCN2A,DEG (Table S3),Subtype 1
+WFDC1,DEG (Table S3),Subtype 1
+SORCS1,DEG (Table S3),Subtype 1
+RRAD,DEG (Table S3),Subtype 1
+PLA2G5,DEG (Table S3),Subtype 1
+RP1,DEG (Table S3),Subtype 1
+ANKRD55,DEG (Table S3),Subtype 1
+AKR1C3,DEG (Table S3),Subtype 1
+C1QB,DEG (Table S3),Subtype 1
+GNAT2,DEG (Table S3),Subtype 1
+KLHL41,DEG (Table S3),Subtype 1
+GUCA1B,DEG (Table S3),Subtype 1
+HLA-DPA1,DEG (Table S3),Subtype 1
+CA2,DEG (Table S3),Subtype 1
+EPB41L3,DEG (Table S3),Subtype 1
+LOC101929255,DEG (Table S3),Subtype 1
+ARR3,DEG (Table S3),Subtype 1
+IFIT1,DEG (Table S3),Subtype 1
+PDC,DEG (Table S3),Subtype 1
+SAG,DEG (Table S3),Subtype 1
+HLA-DRB1,DEG (Table S3),Subtype 1
+WIF1,DEG (Table S3),Subtype 1
+HLA-DRA,DEG (Table S3),Subtype 1
+IMPG1,DEG (Table S3),Subtype 1
+MPP4,DEG (Table S3),Subtype 1
+GPR160,DEG (Table S3),Subtype 1
+EGF,DEG (Table S3),Subtype 1
+TPBG,DEG (Table S3),Subtype 1
+GUCA1C,DEG (Table S3),Subtype 1
+GAL,Retinal markers (Lu 2020),AC/HC_Precurs
+CCK,Retinal markers (Lu 2020),AC/HC_Precurs
+HES6,Retinal markers (Lu 2020),AC/HC_Precurs
+PRDM13,Retinal markers (Lu 2020),AC/HC_Precurs
+BNIP3,Retinal markers (Lu 2020),AC/HC_Precurs
+PDLIM4,Retinal markers (Lu 2020),AC/HC_Precurs
+CD9,Retinal markers (Lu 2020),AC/HC_Precurs
+IGFBP2,Retinal markers (Lu 2020),AC/HC_Precurs
+FAM162A,Retinal markers (Lu 2020),AC/HC_Precurs
+MSRB1,Retinal markers (Lu 2020),AC/HC_Precurs
+LIMD2,Retinal markers (Lu 2020),AC/HC_Precurs
+RBP1,Retinal markers (Lu 2020),AC/HC_Precurs
+GATM,Retinal markers (Lu 2020),AC/HC_Precurs
+GADD45A,Retinal markers (Lu 2020),AC/HC_Precurs
+SOX11,Retinal markers (Lu 2020),AC/HC_Precurs
+SPATS2L,Retinal markers (Lu 2020),AC/HC_Precurs
+ENO1,Retinal markers (Lu 2020),AC/HC_Precurs
+HIF1A,Retinal markers (Lu 2020),AC/HC_Precurs
+TNNI1,Retinal markers (Lu 2020),AC/HC_Precurs
+HSPB1,Retinal markers (Lu 2020),AC/HC_Precurs
+THBS3,Retinal markers (Lu 2020),AC/HC_Precurs
+KIRREL2,Retinal markers (Lu 2020),AC/HC_Precurs
+PTF1A,Retinal markers (Lu 2020),AC/HC_Precurs
+RGS16,Retinal markers (Lu 2020),AC/HC_Precurs
+PPP1R14A,Retinal markers (Lu 2020),AC/HC_Precurs
+ONECUT2,Retinal markers (Lu 2020),AC/HC_Precurs
+PPP1R14C,Retinal markers (Lu 2020),AC/HC_Precurs
+TRH,Retinal markers (Lu 2020),AC/HC_Precurs
+MIF,Retinal markers (Lu 2020),AC/HC_Precurs
+KCNE5,Retinal markers (Lu 2020),AC/HC_Precurs
+MEST,Retinal markers (Lu 2020),AC/HC_Precurs
+SH3BGRL3,Retinal markers (Lu 2020),AC/HC_Precurs
+MIAT,Retinal markers (Lu 2020),AC/HC_Precurs
+TMSB4X,Retinal markers (Lu 2020),AC/HC_Precurs
+ETFB,Retinal markers (Lu 2020),AC/HC_Precurs
+BTBD17,Retinal markers (Lu 2020),AC/HC_Precurs
+NEUROD4,Retinal markers (Lu 2020),AC/HC_Precurs
+TPI1,Retinal markers (Lu 2020),AC/HC_Precurs
+PGK1,Retinal markers (Lu 2020),AC/HC_Precurs
+GADD45G,Retinal markers (Lu 2020),AC/HC_Precurs
+CYB5A,Retinal markers (Lu 2020),AC/HC_Precurs
+SLC16A3,Retinal markers (Lu 2020),AC/HC_Precurs
+TSC22D1,Retinal markers (Lu 2020),AC/HC_Precurs
+LRRN3,Retinal markers (Lu 2020),AC/HC_Precurs
+SEC61G,Retinal markers (Lu 2020),AC/HC_Precurs
+PARP1,Retinal markers (Lu 2020),AC/HC_Precurs
+LDHA,Retinal markers (Lu 2020),AC/HC_Precurs
+VAX2,Retinal markers (Lu 2020),AC/HC_Precurs
+SOX4,Retinal markers (Lu 2020),AC/HC_Precurs
+RNF165,Retinal markers (Lu 2020),AC/HC_Precurs
+VIPR2,Retinal markers (Lu 2020),AC/HC_Precurs
+DLX1,Retinal markers (Lu 2020),AC/HC_Precurs
+LOXL1,Retinal markers (Lu 2020),AC/HC_Precurs
+FAM131C,Retinal markers (Lu 2020),AC/HC_Precurs
+ALDOA,Retinal markers (Lu 2020),AC/HC_Precurs
+TFAP2C,Retinal markers (Lu 2020),AC/HC_Precurs
+MGLL,Retinal markers (Lu 2020),AC/HC_Precurs
+NHLH1,Retinal markers (Lu 2020),AC/HC_Precurs
+DKK3,Retinal markers (Lu 2020),AC/HC_Precurs
+BARHL2,Retinal markers (Lu 2020),AC/HC_Precurs
+SLCO5A1,Retinal markers (Lu 2020),AC/HC_Precurs
+DLX2,Retinal markers (Lu 2020),AC/HC_Precurs
+DDIT4,Retinal markers (Lu 2020),AC/HC_Precurs
+SEPT11,Retinal markers (Lu 2020),AC/HC_Precurs
+SSR4,Retinal markers (Lu 2020),AC/HC_Precurs
+PAX6,Retinal markers (Lu 2020),AC/HC_Precurs
+SETBP1,Retinal markers (Lu 2020),AC/HC_Precurs
+NKD2,Retinal markers (Lu 2020),AC/HC_Precurs
+TMSB10,Retinal markers (Lu 2020),AC/HC_Precurs
+ACKR3,Retinal markers (Lu 2020),AC/HC_Precurs
+PFKFB3,Retinal markers (Lu 2020),AC/HC_Precurs
+ST18,Retinal markers (Lu 2020),AC/HC_Precurs
+ARRB2,Retinal markers (Lu 2020),AC/HC_Precurs
+FDFT1,Retinal markers (Lu 2020),AC/HC_Precurs
+CDKN1C,Retinal markers (Lu 2020),AC/HC_Precurs
+ELAVL3,Retinal markers (Lu 2020),AC/HC_Precurs
+ORAI2,Retinal markers (Lu 2020),AC/HC_Precurs
+RBM17,Retinal markers (Lu 2020),AC/HC_Precurs
+GAPDH,Retinal markers (Lu 2020),AC/HC_Precurs
+TACC2,Retinal markers (Lu 2020),AC/HC_Precurs
+MIR7-3HG,Retinal markers (Lu 2020),AC/HC_Precurs
+GABARAP,Retinal markers (Lu 2020),AC/HC_Precurs
+RASSF4,Retinal markers (Lu 2020),AC/HC_Precurs
+APEX1,Retinal markers (Lu 2020),AC/HC_Precurs
+PTPRF,Retinal markers (Lu 2020),AC/HC_Precurs
+TLE3,Retinal markers (Lu 2020),AC/HC_Precurs
+MARCKSL1,Retinal markers (Lu 2020),AC/HC_Precurs
+MLLT11,Retinal markers (Lu 2020),AC/HC_Precurs
+CXXC5,Retinal markers (Lu 2020),AC/HC_Precurs
+PTMA,Retinal markers (Lu 2020),AC/HC_Precurs
+STMN2,Retinal markers (Lu 2020),AC/HC_Precurs
+STC2,Retinal markers (Lu 2020),AC/HC_Precurs
+CORO1C,Retinal markers (Lu 2020),AC/HC_Precurs
+RDX,Retinal markers (Lu 2020),AC/HC_Precurs
+NNAT,Retinal markers (Lu 2020),AC/HC_Precurs
+BASP1,Retinal markers (Lu 2020),AC/HC_Precurs
+GPC2,Retinal markers (Lu 2020),AC/HC_Precurs
+SLC6A9,Retinal markers (Lu 2020),AC/HC_Precurs
+SNRPE,Retinal markers (Lu 2020),AC/HC_Precurs
+H3F3A,Retinal markers (Lu 2020),AC/HC_Precurs
+CLDN5,Retinal markers (Lu 2020),AC/HC_Precurs
+PLXNA2,Retinal markers (Lu 2020),AC/HC_Precurs
+SPON2,Retinal markers (Lu 2020),AC/HC_Precurs
+RORB,Retinal markers (Lu 2020),AC/HC_Precurs
+CD24,Retinal markers (Lu 2020),AC/HC_Precurs
+VASH2,Retinal markers (Lu 2020),AC/HC_Precurs
+EIF4A1,Retinal markers (Lu 2020),AC/HC_Precurs
+BCL7A,Retinal markers (Lu 2020),AC/HC_Precurs
+RP3-395M20.12,Retinal markers (Lu 2020),AC/HC_Precurs
+TUBB3,Retinal markers (Lu 2020),AC/HC_Precurs
+GRID2,Retinal markers (Lu 2020),AC/HC_Precurs
+ATP6V0B,Retinal markers (Lu 2020),AC/HC_Precurs
+BSG,Retinal markers (Lu 2020),AC/HC_Precurs
+NHLH2,Retinal markers (Lu 2020),AC/HC_Precurs
+TUBA1A,Retinal markers (Lu 2020),AC/HC_Precurs
+HNRNPA1,Retinal markers (Lu 2020),AC/HC_Precurs
+CRABP1,Retinal markers (Lu 2020),AC/HC_Precurs
+MIR217HG,Retinal markers (Lu 2020),AC/HC_Precurs
+NOL4,Retinal markers (Lu 2020),AC/HC_Precurs
+S100A6,Retinal markers (Lu 2020),AC/HC_Precurs
+HOMER3,Retinal markers (Lu 2020),AC/HC_Precurs
+CENPV,Retinal markers (Lu 2020),AC/HC_Precurs
+NKAIN4,Retinal markers (Lu 2020),AC/HC_Precurs
+SEPT6,Retinal markers (Lu 2020),AC/HC_Precurs
+EIF4A3,Retinal markers (Lu 2020),AC/HC_Precurs
+FSCN1,Retinal markers (Lu 2020),AC/HC_Precurs
+PTPRS,Retinal markers (Lu 2020),AC/HC_Precurs
+TMEM51,Retinal markers (Lu 2020),AC/HC_Precurs
+TAGLN3,Retinal markers (Lu 2020),AC/HC_Precurs
+HN1,Retinal markers (Lu 2020),AC/HC_Precurs
+TCF4,Retinal markers (Lu 2020),AC/HC_Precurs
+RNF24,Retinal markers (Lu 2020),AC/HC_Precurs
+ATOH7,Retinal markers (Lu 2020),AC/HC_Precurs
+CECR5,Retinal markers (Lu 2020),AC/HC_Precurs
+VKORC1,Retinal markers (Lu 2020),AC/HC_Precurs
+HDAC2,Retinal markers (Lu 2020),AC/HC_Precurs
+CELF3,Retinal markers (Lu 2020),AC/HC_Precurs
+RBFOX3,Retinal markers (Lu 2020),AC/HC_Precurs
+CCNG2,Retinal markers (Lu 2020),AC/HC_Precurs
+NTRK1,Retinal markers (Lu 2020),AC/HC_Precurs
+SCARB2,Retinal markers (Lu 2020),AC/HC_Precurs
+APLP1,Retinal markers (Lu 2020),AC/HC_Precurs
+FAM96B,Retinal markers (Lu 2020),AC/HC_Precurs
+HEYL,Retinal markers (Lu 2020),AC/HC_Precurs
+RPAIN,Retinal markers (Lu 2020),AC/HC_Precurs
+NES,Retinal markers (Lu 2020),AC/HC_Precurs
+DAPL1,Retinal markers (Lu 2020),AC/HC_Precurs
+MIDN,Retinal markers (Lu 2020),AC/HC_Precurs
+STMN1,Retinal markers (Lu 2020),AC/HC_Precurs
+UBE2L6,Retinal markers (Lu 2020),AC/HC_Precurs
+MEIS2,Retinal markers (Lu 2020),Amacrine Cells
+TFAP2A,Retinal markers (Lu 2020),Amacrine Cells
+RND3,Retinal markers (Lu 2020),Amacrine Cells
+CELF4,Retinal markers (Lu 2020),Amacrine Cells
+LHX9,Retinal markers (Lu 2020),Amacrine Cells
+TFAP2B,Retinal markers (Lu 2020),Amacrine Cells
+ZNF385D,Retinal markers (Lu 2020),Amacrine Cells
+MIR181A1HG,Retinal markers (Lu 2020),Amacrine Cells
+PAX6,Retinal markers (Lu 2020),Amacrine Cells
+LMO4,Retinal markers (Lu 2020),Amacrine Cells
+RTN1,Retinal markers (Lu 2020),Amacrine Cells
+SOX4,Retinal markers (Lu 2020),Amacrine Cells
+GAD2,Retinal markers (Lu 2020),Amacrine Cells
+PCP4,Retinal markers (Lu 2020),Amacrine Cells
+RUNX1T1,Retinal markers (Lu 2020),Amacrine Cells
+RALYL,Retinal markers (Lu 2020),Amacrine Cells
+TFAP2C,Retinal markers (Lu 2020),Amacrine Cells
+CD24,Retinal markers (Lu 2020),Amacrine Cells
+TAGLN3,Retinal markers (Lu 2020),Amacrine Cells
+CRABP1,Retinal markers (Lu 2020),Amacrine Cells
+RBFOX2,Retinal markers (Lu 2020),Amacrine Cells
+HMP19,Retinal markers (Lu 2020),Amacrine Cells
+NNAT,Retinal markers (Lu 2020),Amacrine Cells
+NREP,Retinal markers (Lu 2020),Amacrine Cells
+ZNF503,Retinal markers (Lu 2020),Amacrine Cells
+ELAVL3,Retinal markers (Lu 2020),Amacrine Cells
+JPH4,Retinal markers (Lu 2020),Amacrine Cells
+FEZ1,Retinal markers (Lu 2020),Amacrine Cells
+MLLT11,Retinal markers (Lu 2020),Amacrine Cells
+MARCKSL1,Retinal markers (Lu 2020),Amacrine Cells
+SCG5,Retinal markers (Lu 2020),Amacrine Cells
+RPRM,Retinal markers (Lu 2020),Amacrine Cells
+PLPPR1,Retinal markers (Lu 2020),Amacrine Cells
+RP11-96L14.7,Retinal markers (Lu 2020),Amacrine Cells
+BHLHE22,Retinal markers (Lu 2020),Amacrine Cells
+ZFHX3,Retinal markers (Lu 2020),Amacrine Cells
+TUBB2A,Retinal markers (Lu 2020),Amacrine Cells
+STMN2,Retinal markers (Lu 2020),Amacrine Cells
+PCDH9,Retinal markers (Lu 2020),Amacrine Cells
+NRP1,Retinal markers (Lu 2020),Amacrine Cells
+CRMP1,Retinal markers (Lu 2020),Amacrine Cells
+NOVA1,Retinal markers (Lu 2020),Amacrine Cells
+PBX1,Retinal markers (Lu 2020),Amacrine Cells
+MAB21L2,Retinal markers (Lu 2020),Amacrine Cells
+NRXN1,Retinal markers (Lu 2020),Amacrine Cells
+RBFOX1,Retinal markers (Lu 2020),Amacrine Cells
+PLXNA2,Retinal markers (Lu 2020),Amacrine Cells
+PARD3,Retinal markers (Lu 2020),Amacrine Cells
+GNG3,Retinal markers (Lu 2020),Amacrine Cells
+RD3L,Retinal markers (Lu 2020),Amacrine Cells
+GRIA4,Retinal markers (Lu 2020),Amacrine Cells
+BASP1,Retinal markers (Lu 2020),Amacrine Cells
+NHLH2,Retinal markers (Lu 2020),Amacrine Cells
+PRDM13,Retinal markers (Lu 2020),Amacrine Cells
+GRIA2,Retinal markers (Lu 2020),Amacrine Cells
+PCSK1N,Retinal markers (Lu 2020),Amacrine Cells
+APLP1,Retinal markers (Lu 2020),Amacrine Cells
+DLG2,Retinal markers (Lu 2020),Amacrine Cells
+BARHL2,Retinal markers (Lu 2020),Amacrine Cells
+PCBP3,Retinal markers (Lu 2020),Amacrine Cells
+ZFHX4,Retinal markers (Lu 2020),Amacrine Cells
+TUBB3,Retinal markers (Lu 2020),Amacrine Cells
+MAB21L1,Retinal markers (Lu 2020),Amacrine Cells
+MGARP,Retinal markers (Lu 2020),Amacrine Cells
+DCX,Retinal markers (Lu 2020),Amacrine Cells
+KIF5C,Retinal markers (Lu 2020),Amacrine Cells
+NSG1,Retinal markers (Lu 2020),Amacrine Cells
+SLC32A1,Retinal markers (Lu 2020),Amacrine Cells
+NRXN2,Retinal markers (Lu 2020),Amacrine Cells
+DPYSL2,Retinal markers (Lu 2020),Amacrine Cells
+INA,Retinal markers (Lu 2020),Amacrine Cells
+HN1,Retinal markers (Lu 2020),Amacrine Cells
+FAT3,Retinal markers (Lu 2020),Amacrine Cells
+RAB3A,Retinal markers (Lu 2020),Amacrine Cells
+PODXL2,Retinal markers (Lu 2020),Amacrine Cells
+TAC1,Retinal markers (Lu 2020),Amacrine Cells
+TUBB2B,Retinal markers (Lu 2020),Amacrine Cells
+POU2F2,Retinal markers (Lu 2020),Amacrine Cells
+GAD1,Retinal markers (Lu 2020),Amacrine Cells
+CELF5,Retinal markers (Lu 2020),Amacrine Cells
+MIR124-2HG,Retinal markers (Lu 2020),Amacrine Cells
+TTC3,Retinal markers (Lu 2020),Amacrine Cells
+AP1S2,Retinal markers (Lu 2020),Amacrine Cells
+THRA,Retinal markers (Lu 2020),Amacrine Cells
+SV2A,Retinal markers (Lu 2020),Amacrine Cells
+SYT6,Retinal markers (Lu 2020),Amacrine Cells
+GPC2,Retinal markers (Lu 2020),Amacrine Cells
+CCNI,Retinal markers (Lu 2020),Amacrine Cells
+LHFP,Retinal markers (Lu 2020),Amacrine Cells
+PCLO,Retinal markers (Lu 2020),Amacrine Cells
+NPTX2,Retinal markers (Lu 2020),Amacrine Cells
+CD200,Retinal markers (Lu 2020),Amacrine Cells
+CFL1,Retinal markers (Lu 2020),Amacrine Cells
+FBXW7,Retinal markers (Lu 2020),Amacrine Cells
+SRGAP3,Retinal markers (Lu 2020),Amacrine Cells
+STARD4-AS1,Retinal markers (Lu 2020),Amacrine Cells
+RASGEF1B,Retinal markers (Lu 2020),Amacrine Cells
+LY6H,Retinal markers (Lu 2020),Amacrine Cells
+BZW2,Retinal markers (Lu 2020),Amacrine Cells
+FGF14,Retinal markers (Lu 2020),Amacrine Cells
+DPYSL4,Retinal markers (Lu 2020),Amacrine Cells
+STMN4,Retinal markers (Lu 2020),Amacrine Cells
+LRRN3,Retinal markers (Lu 2020),Amacrine Cells
+AC004158.3,Retinal markers (Lu 2020),Amacrine Cells
+PRKCB,Retinal markers (Lu 2020),Amacrine Cells
+GPM6A,Retinal markers (Lu 2020),Amacrine Cells
+FSCN1,Retinal markers (Lu 2020),Amacrine Cells
+SEZ6L2,Retinal markers (Lu 2020),Amacrine Cells
+CCDC88A,Retinal markers (Lu 2020),Amacrine Cells
+CABP1,Retinal markers (Lu 2020),Amacrine Cells
+TBX3,Retinal markers (Lu 2020),Amacrine Cells
+FRMD4A,Retinal markers (Lu 2020),Amacrine Cells
+BNIP3,Retinal markers (Lu 2020),Amacrine Cells
+GNG2,Retinal markers (Lu 2020),Amacrine Cells
+CSRNP3,Retinal markers (Lu 2020),Amacrine Cells
+IGLON5,Retinal markers (Lu 2020),Amacrine Cells
+HIF1A,Retinal markers (Lu 2020),Amacrine Cells
+FARP1,Retinal markers (Lu 2020),Amacrine Cells
+FXYD6,Retinal markers (Lu 2020),Amacrine Cells
+CEP170,Retinal markers (Lu 2020),Amacrine Cells
+NBEA,Retinal markers (Lu 2020),Amacrine Cells
+ARHGEF12,Retinal markers (Lu 2020),Amacrine Cells
+LINC00632,Retinal markers (Lu 2020),Amacrine Cells
+RELN,Retinal markers (Lu 2020),Amacrine Cells
+PKIA,Retinal markers (Lu 2020),Amacrine Cells
+MTUS1,Retinal markers (Lu 2020),Amacrine Cells
+FGF13,Retinal markers (Lu 2020),Amacrine Cells
+SEPT6,Retinal markers (Lu 2020),Amacrine Cells
+NRXN3,Retinal markers (Lu 2020),Amacrine Cells
+CBLN2,Retinal markers (Lu 2020),Amacrine Cells
+GPR85,Retinal markers (Lu 2020),Amacrine Cells
+CPLX3,Retinal markers (Lu 2020),Amacrine Cells
+VASH2,Retinal markers (Lu 2020),Amacrine Cells
+ADGRL3,Retinal markers (Lu 2020),Amacrine Cells
+PTPRK,Retinal markers (Lu 2020),Amacrine Cells
+RGS8,Retinal markers (Lu 2020),Amacrine Cells
+PTPRS,Retinal markers (Lu 2020),Amacrine Cells
+TMSB10,Retinal markers (Lu 2020),Amacrine Cells
+GABPB1-AS1,Retinal markers (Lu 2020),Amacrine Cells
+MAPT,Retinal markers (Lu 2020),Amacrine Cells
+SPOCK1,Retinal markers (Lu 2020),Amacrine Cells
+SCN2A,Retinal markers (Lu 2020),Amacrine Cells
+MIAT,Retinal markers (Lu 2020),Amacrine Cells
+ACTB,Retinal markers (Lu 2020),Amacrine Cells
+ADGRB3,Retinal markers (Lu 2020),Amacrine Cells
+PFKFB3,Retinal markers (Lu 2020),Amacrine Cells
+IGFBP4,Retinal markers (Lu 2020),Amacrine Cells
+OLFM3,Retinal markers (Lu 2020),Amacrine Cells
+ERV3-1,Retinal markers (Lu 2020),Amacrine Cells
+SH3BP5,Retinal markers (Lu 2020),Amacrine Cells
+FABP7,Retinal markers (Lu 2020),BC/Photo_Precurs
+C8orf46,Retinal markers (Lu 2020),BC/Photo_Precurs
+ATOH7,Retinal markers (Lu 2020),BC/Photo_Precurs
+FAM131C,Retinal markers (Lu 2020),BC/Photo_Precurs
+DCT,Retinal markers (Lu 2020),BC/Photo_Precurs
+OTX2,Retinal markers (Lu 2020),BC/Photo_Precurs
+NEUROD4,Retinal markers (Lu 2020),BC/Photo_Precurs
+CSRP2,Retinal markers (Lu 2020),BC/Photo_Precurs
+NEUROG1,Retinal markers (Lu 2020),BC/Photo_Precurs
+MFNG,Retinal markers (Lu 2020),BC/Photo_Precurs
+BSG,Retinal markers (Lu 2020),BC/Photo_Precurs
+GADD45G,Retinal markers (Lu 2020),BC/Photo_Precurs
+PRDM1,Retinal markers (Lu 2020),BC/Photo_Precurs
+HES6,Retinal markers (Lu 2020),BC/Photo_Precurs
+MIR7-3HG,Retinal markers (Lu 2020),BC/Photo_Precurs
+RORB,Retinal markers (Lu 2020),BC/Photo_Precurs
+RXRG,Retinal markers (Lu 2020),BC/Photo_Precurs
+KLHDC8A,Retinal markers (Lu 2020),BC/Photo_Precurs
+GABARAP,Retinal markers (Lu 2020),BC/Photo_Precurs
+PCBP4,Retinal markers (Lu 2020),BC/Photo_Precurs
+RASD1,Retinal markers (Lu 2020),BC/Photo_Precurs
+CHRNA1,Retinal markers (Lu 2020),BC/Photo_Precurs
+S100A6,Retinal markers (Lu 2020),BC/Photo_Precurs
+MPPED2,Retinal markers (Lu 2020),BC/Photo_Precurs
+SSX2IP,Retinal markers (Lu 2020),BC/Photo_Precurs
+NEUROD1,Retinal markers (Lu 2020),BC/Photo_Precurs
+PIK3R1,Retinal markers (Lu 2020),BC/Photo_Precurs
+CADM3,Retinal markers (Lu 2020),BC/Photo_Precurs
+FAM89A,Retinal markers (Lu 2020),BC/Photo_Precurs
+DLL3,Retinal markers (Lu 2020),BC/Photo_Precurs
+SLC38A5,Retinal markers (Lu 2020),BC/Photo_Precurs
+SEMA5A,Retinal markers (Lu 2020),BC/Photo_Precurs
+GNG5,Retinal markers (Lu 2020),BC/Photo_Precurs
+GSTP1,Retinal markers (Lu 2020),BC/Photo_Precurs
+RBP1,Retinal markers (Lu 2020),BC/Photo_Precurs
+NNAT,Retinal markers (Lu 2020),BC/Photo_Precurs
+INSM1,Retinal markers (Lu 2020),BC/Photo_Precurs
+NFIB,Retinal markers (Lu 2020),BC/Photo_Precurs
+EML4,Retinal markers (Lu 2020),BC/Photo_Precurs
+RPL36A,Retinal markers (Lu 2020),BC/Photo_Precurs
+DLL4,Retinal markers (Lu 2020),BC/Photo_Precurs
+RHOBTB3,Retinal markers (Lu 2020),BC/Photo_Precurs
+GPX1,Retinal markers (Lu 2020),BC/Photo_Precurs
+OLIG2,Retinal markers (Lu 2020),BC/Photo_Precurs
+PTH2,Retinal markers (Lu 2020),BC/Photo_Precurs
+RPL17,Retinal markers (Lu 2020),BC/Photo_Precurs
+SOX4,Retinal markers (Lu 2020),BC/Photo_Precurs
+CCNG2,Retinal markers (Lu 2020),BC/Photo_Precurs
+NBEAL1,Retinal markers (Lu 2020),BC/Photo_Precurs
+AMER2,Retinal markers (Lu 2020),BC/Photo_Precurs
+SESN3,Retinal markers (Lu 2020),BC/Photo_Precurs
+GRINA,Retinal markers (Lu 2020),BC/Photo_Precurs
+TMX1,Retinal markers (Lu 2020),BC/Photo_Precurs
+CD44,Retinal markers (Lu 2020),BC/Photo_Precurs
+COL16A1,Retinal markers (Lu 2020),BC/Photo_Precurs
+EIF3E,Retinal markers (Lu 2020),BC/Photo_Precurs
+LGI4,Retinal markers (Lu 2020),BC/Photo_Precurs
+LHX4,Retinal markers (Lu 2020),BC/Photo_Precurs
+MFAP4,Retinal markers (Lu 2020),BC/Photo_Precurs
+APEX1,Retinal markers (Lu 2020),BC/Photo_Precurs
+ACTC1,Retinal markers (Lu 2020),BC/Photo_Precurs
+SMAD2,Retinal markers (Lu 2020),BC/Photo_Precurs
+PHLDA1,Retinal markers (Lu 2020),BC/Photo_Precurs
+MIAT,Retinal markers (Lu 2020),BC/Photo_Precurs
+TMEM123,Retinal markers (Lu 2020),BC/Photo_Precurs
+STRADB,Retinal markers (Lu 2020),BC/Photo_Precurs
+HNRNPH3,Retinal markers (Lu 2020),BC/Photo_Precurs
+GADD45GIP1,Retinal markers (Lu 2020),BC/Photo_Precurs
+NDRG1,Retinal markers (Lu 2020),BC/Photo_Precurs
+DST,Retinal markers (Lu 2020),BC/Photo_Precurs
+TLE3,Retinal markers (Lu 2020),BC/Photo_Precurs
+TMA16,Retinal markers (Lu 2020),BC/Photo_Precurs
+HMGA1,Retinal markers (Lu 2020),BC/Photo_Precurs
+KDELR1,Retinal markers (Lu 2020),BC/Photo_Precurs
+AC090498.1,Retinal markers (Lu 2020),BC/Photo_Precurs
+ZHX1,Retinal markers (Lu 2020),BC/Photo_Precurs
+COMT,Retinal markers (Lu 2020),BC/Photo_Precurs
+SERPINF1,Retinal markers (Lu 2020),BC/Photo_Precurs
+PAK3,Retinal markers (Lu 2020),BC/Photo_Precurs
+VSX2,Retinal markers (Lu 2020),BC/Photo_Precurs
+RP3-512B11.3,Retinal markers (Lu 2020),BC/Photo_Precurs
+THRB,Retinal markers (Lu 2020),BC/Photo_Precurs
+KCNK3,Retinal markers (Lu 2020),BC/Photo_Precurs
+MSI1,Retinal markers (Lu 2020),BC/Photo_Precurs
+CLDN5,Retinal markers (Lu 2020),BC/Photo_Precurs
+PPP1R14A,Retinal markers (Lu 2020),BC/Photo_Precurs
+SRRM4,Retinal markers (Lu 2020),BC/Photo_Precurs
+MIF,Retinal markers (Lu 2020),BC/Photo_Precurs
+GDE1,Retinal markers (Lu 2020),BC/Photo_Precurs
+FAM96B,Retinal markers (Lu 2020),BC/Photo_Precurs
+CCDC181,Retinal markers (Lu 2020),BC/Photo_Precurs
+ANKRD65,Retinal markers (Lu 2020),BC/Photo_Precurs
+NOL4,Retinal markers (Lu 2020),BC/Photo_Precurs
+CBFA2T2,Retinal markers (Lu 2020),BC/Photo_Precurs
+SH3BGRL3,Retinal markers (Lu 2020),BC/Photo_Precurs
+SSR4,Retinal markers (Lu 2020),BC/Photo_Precurs
+LOXL1,Retinal markers (Lu 2020),BC/Photo_Precurs
+GRAMD3,Retinal markers (Lu 2020),BC/Photo_Precurs
+FAM60A,Retinal markers (Lu 2020),BC/Photo_Precurs
+OSGEP,Retinal markers (Lu 2020),BC/Photo_Precurs
+GOLIM4,Retinal markers (Lu 2020),BC/Photo_Precurs
+RPS29,Retinal markers (Lu 2020),BC/Photo_Precurs
+POLR2L,Retinal markers (Lu 2020),BC/Photo_Precurs
+SPARC,Retinal markers (Lu 2020),BC/Photo_Precurs
+ALDH7A1,Retinal markers (Lu 2020),BC/Photo_Precurs
+STK39,Retinal markers (Lu 2020),BC/Photo_Precurs
+RBPJ,Retinal markers (Lu 2020),BC/Photo_Precurs
+KLHL35,Retinal markers (Lu 2020),BC/Photo_Precurs
+PET100,Retinal markers (Lu 2020),BC/Photo_Precurs
+RBM3,Retinal markers (Lu 2020),BC/Photo_Precurs
+CDH2,Retinal markers (Lu 2020),BC/Photo_Precurs
+PCSK2,Retinal markers (Lu 2020),BC/Photo_Precurs
+MDGA1,Retinal markers (Lu 2020),BC/Photo_Precurs
+RPS3,Retinal markers (Lu 2020),BC/Photo_Precurs
+RPS27,Retinal markers (Lu 2020),BC/Photo_Precurs
+TTC14,Retinal markers (Lu 2020),BC/Photo_Precurs
+GPM6A,Retinal markers (Lu 2020),BC/Photo_Precurs
+NLK,Retinal markers (Lu 2020),BC/Photo_Precurs
+SSTR2,Retinal markers (Lu 2020),BC/Photo_Precurs
+UBXN1,Retinal markers (Lu 2020),BC/Photo_Precurs
+GADD45A,Retinal markers (Lu 2020),BC/Photo_Precurs
+H1F0,Retinal markers (Lu 2020),BC/Photo_Precurs
+NELL2,Retinal markers (Lu 2020),BC/Photo_Precurs
+ZEB1,Retinal markers (Lu 2020),BC/Photo_Precurs
+FXYD3,Retinal markers (Lu 2020),BC/Photo_Precurs
+LINC00599,Retinal markers (Lu 2020),BC/Photo_Precurs
+HIST1H2AC,Retinal markers (Lu 2020),BC/Photo_Precurs
+LIMD2,Retinal markers (Lu 2020),BC/Photo_Precurs
+CALR,Retinal markers (Lu 2020),BC/Photo_Precurs
+NHP2,Retinal markers (Lu 2020),BC/Photo_Precurs
+RGS16,Retinal markers (Lu 2020),BC/Photo_Precurs
+MYBL1,Retinal markers (Lu 2020),BC/Photo_Precurs
+SHD,Retinal markers (Lu 2020),BC/Photo_Precurs
+SUPT4H1,Retinal markers (Lu 2020),BC/Photo_Precurs
+SPON2,Retinal markers (Lu 2020),BC/Photo_Precurs
+SNRPB2,Retinal markers (Lu 2020),BC/Photo_Precurs
+NDUFB11,Retinal markers (Lu 2020),BC/Photo_Precurs
+TIMM50,Retinal markers (Lu 2020),BC/Photo_Precurs
+RPS27L,Retinal markers (Lu 2020),BC/Photo_Precurs
+SEPT4,Retinal markers (Lu 2020),BC/Photo_Precurs
+DSP,Retinal markers (Lu 2020),BC/Photo_Precurs
+SMIM20,Retinal markers (Lu 2020),BC/Photo_Precurs
+JTB,Retinal markers (Lu 2020),BC/Photo_Precurs
+RPL37,Retinal markers (Lu 2020),BC/Photo_Precurs
+SVBP,Retinal markers (Lu 2020),BC/Photo_Precurs
+KLHDC8B,Retinal markers (Lu 2020),BC/Photo_Precurs
+RPS28,Retinal markers (Lu 2020),BC/Photo_Precurs
+TEAD2,Retinal markers (Lu 2020),BC/Photo_Precurs
+ZBTB18,Retinal markers (Lu 2020),BC/Photo_Precurs
+GNB2,Retinal markers (Lu 2020),BC/Photo_Precurs
+PCP2,Retinal markers (Lu 2020),Bipolar Cells
+VSX1,Retinal markers (Lu 2020),Bipolar Cells
+GNG13,Retinal markers (Lu 2020),Bipolar Cells
+CA10,Retinal markers (Lu 2020),Bipolar Cells
+LRTM1,Retinal markers (Lu 2020),Bipolar Cells
+CADPS,Retinal markers (Lu 2020),Bipolar Cells
+CHN2,Retinal markers (Lu 2020),Bipolar Cells
+CPLX3,Retinal markers (Lu 2020),Bipolar Cells
+TMEM215,Retinal markers (Lu 2020),Bipolar Cells
+ISL1,Retinal markers (Lu 2020),Bipolar Cells
+TRPM1,Retinal markers (Lu 2020),Bipolar Cells
+IGSF21,Retinal markers (Lu 2020),Bipolar Cells
+CAMK2B,Retinal markers (Lu 2020),Bipolar Cells
+SERPINI1,Retinal markers (Lu 2020),Bipolar Cells
+GSG1,Retinal markers (Lu 2020),Bipolar Cells
+WFDC1,Retinal markers (Lu 2020),Bipolar Cells
+PRDM8,Retinal markers (Lu 2020),Bipolar Cells
+PCP4,Retinal markers (Lu 2020),Bipolar Cells
+SNAP25,Retinal markers (Lu 2020),Bipolar Cells
+GRM6,Retinal markers (Lu 2020),Bipolar Cells
+TMEM176B,Retinal markers (Lu 2020),Bipolar Cells
+ASIC4,Retinal markers (Lu 2020),Bipolar Cells
+AANAT,Retinal markers (Lu 2020),Bipolar Cells
+CCDC136,Retinal markers (Lu 2020),Bipolar Cells
+MT-CYB,Retinal markers (Lu 2020),Bipolar Cells
+MAP4,Retinal markers (Lu 2020),Bipolar Cells
+CALM1,Retinal markers (Lu 2020),Bipolar Cells
+FSTL5,Retinal markers (Lu 2020),Bipolar Cells
+PLXDC1,Retinal markers (Lu 2020),Bipolar Cells
+IGF1,Retinal markers (Lu 2020),Bipolar Cells
+MT-ND4,Retinal markers (Lu 2020),Bipolar Cells
+SYNE1,Retinal markers (Lu 2020),Bipolar Cells
+EFR3A,Retinal markers (Lu 2020),Bipolar Cells
+KCNMA1,Retinal markers (Lu 2020),Bipolar Cells
+MAP7,Retinal markers (Lu 2020),Bipolar Cells
+TRNP1,Retinal markers (Lu 2020),Bipolar Cells
+ITM2C,Retinal markers (Lu 2020),Bipolar Cells
+VSX2,Retinal markers (Lu 2020),Bipolar Cells
+HPCA,Retinal markers (Lu 2020),Bipolar Cells
+DOK6,Retinal markers (Lu 2020),Bipolar Cells
+GNAO1,Retinal markers (Lu 2020),Bipolar Cells
+ANK3,Retinal markers (Lu 2020),Bipolar Cells
+FRMD3,Retinal markers (Lu 2020),Bipolar Cells
+GABRA1,Retinal markers (Lu 2020),Bipolar Cells
+CABP2,Retinal markers (Lu 2020),Bipolar Cells
+PCP4L1,Retinal markers (Lu 2020),Bipolar Cells
+CXCL14,Retinal markers (Lu 2020),Bipolar Cells
+MT-ND3,Retinal markers (Lu 2020),Bipolar Cells
+PGM5-AS1.1,Retinal markers (Lu 2020),Bipolar Cells
+ATP2B1,Retinal markers (Lu 2020),Bipolar Cells
+MT-ATP6,Retinal markers (Lu 2020),Bipolar Cells
+SYP,Retinal markers (Lu 2020),Bipolar Cells
+SLC1A7,Retinal markers (Lu 2020),Bipolar Cells
+KHDRBS3,Retinal markers (Lu 2020),Bipolar Cells
+CLTB,Retinal markers (Lu 2020),Bipolar Cells
+STX3,Retinal markers (Lu 2020),Bipolar Cells
+APLP2,Retinal markers (Lu 2020),Bipolar Cells
+TPD52,Retinal markers (Lu 2020),Bipolar Cells
+ATP1A3,Retinal markers (Lu 2020),Bipolar Cells
+PRNP,Retinal markers (Lu 2020),Bipolar Cells
+NEUROD4,Retinal markers (Lu 2020),Bipolar Cells
+SLC38A1,Retinal markers (Lu 2020),Bipolar Cells
+RD3L,Retinal markers (Lu 2020),Bipolar Cells
+GRIK1,Retinal markers (Lu 2020),Bipolar Cells
+VAMP2,Retinal markers (Lu 2020),Bipolar Cells
+TMEM196,Retinal markers (Lu 2020),Bipolar Cells
+MT-CO3,Retinal markers (Lu 2020),Bipolar Cells
+KCNA5,Retinal markers (Lu 2020),Bipolar Cells
+RP11-192H23.6,Retinal markers (Lu 2020),Bipolar Cells
+NETO1,Retinal markers (Lu 2020),Bipolar Cells
+ELK4,Retinal markers (Lu 2020),Bipolar Cells
+OTX2,Retinal markers (Lu 2020),Bipolar Cells
+ZFHX4,Retinal markers (Lu 2020),Bipolar Cells
+MT-CO1,Retinal markers (Lu 2020),Bipolar Cells
+PROX1,Retinal markers (Lu 2020),Bipolar Cells
+BCAT1,Retinal markers (Lu 2020),Bipolar Cells
+MIR124-2HG,Retinal markers (Lu 2020),Bipolar Cells
+SYT1,Retinal markers (Lu 2020),Bipolar Cells
+SAMSN1,Retinal markers (Lu 2020),Bipolar Cells
+MT-ND5,Retinal markers (Lu 2020),Bipolar Cells
+APC,Retinal markers (Lu 2020),Bipolar Cells
+GUCY1A3,Retinal markers (Lu 2020),Bipolar Cells
+RAB3IP,Retinal markers (Lu 2020),Bipolar Cells
+TERF2IP,Retinal markers (Lu 2020),Bipolar Cells
+MFSD4,Retinal markers (Lu 2020),Bipolar Cells
+CTD-2314G24.2,Retinal markers (Lu 2020),Bipolar Cells
+MT-ND2,Retinal markers (Lu 2020),Bipolar Cells
+HIST2H2BE,Retinal markers (Lu 2020),Bipolar Cells
+NAPB,Retinal markers (Lu 2020),Bipolar Cells
+TAX1BP1,Retinal markers (Lu 2020),Bipolar Cells
+MT-ND4L,Retinal markers (Lu 2020),Bipolar Cells
+GABRG2,Retinal markers (Lu 2020),Bipolar Cells
+RIMS2,Retinal markers (Lu 2020),Bipolar Cells
+SPCS1,Retinal markers (Lu 2020),Bipolar Cells
+PLCD4,Retinal markers (Lu 2020),Bipolar Cells
+NDNF,Retinal markers (Lu 2020),Bipolar Cells
+FAM171B,Retinal markers (Lu 2020),Bipolar Cells
+FGF12,Retinal markers (Lu 2020),Bipolar Cells
+NFIB,Retinal markers (Lu 2020),Bipolar Cells
+SFXN3,Retinal markers (Lu 2020),Bipolar Cells
+CRYBG3,Retinal markers (Lu 2020),Bipolar Cells
+GNB5,Retinal markers (Lu 2020),Bipolar Cells
+LMO4,Retinal markers (Lu 2020),Bipolar Cells
+MCC,Retinal markers (Lu 2020),Bipolar Cells
+ZNF385A,Retinal markers (Lu 2020),Bipolar Cells
+DBP,Retinal markers (Lu 2020),Bipolar Cells
+DST,Retinal markers (Lu 2020),Bipolar Cells
+APLP1,Retinal markers (Lu 2020),Bipolar Cells
+PCDH9,Retinal markers (Lu 2020),Bipolar Cells
+TMEM176A,Retinal markers (Lu 2020),Bipolar Cells
+CCDC88A,Retinal markers (Lu 2020),Bipolar Cells
+MT-ND1,Retinal markers (Lu 2020),Bipolar Cells
+RP11-676J15.1,Retinal markers (Lu 2020),Bipolar Cells
+NIF3L1,Retinal markers (Lu 2020),Bipolar Cells
+HHATL,Retinal markers (Lu 2020),Bipolar Cells
+ZNF385B,Retinal markers (Lu 2020),Bipolar Cells
+NOVA1,Retinal markers (Lu 2020),Bipolar Cells
+RD3,Retinal markers (Lu 2020),Bipolar Cells
+CLSTN3,Retinal markers (Lu 2020),Bipolar Cells
+KRT222,Retinal markers (Lu 2020),Bipolar Cells
+FOXN3,Retinal markers (Lu 2020),Bipolar Cells
+VDAC1,Retinal markers (Lu 2020),Bipolar Cells
+FAM3C,Retinal markers (Lu 2020),Bipolar Cells
+CLN6,Retinal markers (Lu 2020),Bipolar Cells
+SSTR2,Retinal markers (Lu 2020),Bipolar Cells
+KIF21A,Retinal markers (Lu 2020),Bipolar Cells
+USP11,Retinal markers (Lu 2020),Bipolar Cells
+B3GALT2,Retinal markers (Lu 2020),Bipolar Cells
+ATP6V1G2,Retinal markers (Lu 2020),Bipolar Cells
+EDIL3,Retinal markers (Lu 2020),Bipolar Cells
+CH17-189H20.1,Retinal markers (Lu 2020),Bipolar Cells
+NRXN3,Retinal markers (Lu 2020),Bipolar Cells
+GABRR1,Retinal markers (Lu 2020),Bipolar Cells
+PRKCA,Retinal markers (Lu 2020),Bipolar Cells
+ITM2B,Retinal markers (Lu 2020),Bipolar Cells
+SEMA3E,Retinal markers (Lu 2020),Bipolar Cells
+CPE,Retinal markers (Lu 2020),Bipolar Cells
+SLC17A7,Retinal markers (Lu 2020),Bipolar Cells
+PRKCB,Retinal markers (Lu 2020),Bipolar Cells
+TMEM59L,Retinal markers (Lu 2020),Bipolar Cells
+FAIM2,Retinal markers (Lu 2020),Bipolar Cells
+QPCT,Retinal markers (Lu 2020),Bipolar Cells
+RP11-431M3.2,Retinal markers (Lu 2020),Bipolar Cells
+TSPAN13,Retinal markers (Lu 2020),Bipolar Cells
+SLC25A22,Retinal markers (Lu 2020),Bipolar Cells
+RAB3A,Retinal markers (Lu 2020),Bipolar Cells
+ST18,Retinal markers (Lu 2020),Bipolar Cells
+LIN7A,Retinal markers (Lu 2020),Bipolar Cells
+VSTM2A,Retinal markers (Lu 2020),Bipolar Cells
+CELF3,Retinal markers (Lu 2020),Bipolar Cells
+ARR3,Retinal markers (Lu 2020),Cones
+GUCA1C,Retinal markers (Lu 2020),Cones
+THRB,Retinal markers (Lu 2020),Cones
+TTR,Retinal markers (Lu 2020),Cones
+MIR7-3HG,Retinal markers (Lu 2020),Cones
+PHLDA1,Retinal markers (Lu 2020),Cones
+HOTAIRM1,Retinal markers (Lu 2020),Cones
+DHRS7,Retinal markers (Lu 2020),Cones
+HMGA1,Retinal markers (Lu 2020),Cones
+CTD-2050N2.1,Retinal markers (Lu 2020),Cones
+SERPINI2,Retinal markers (Lu 2020),Cones
+RRAD,Retinal markers (Lu 2020),Cones
+APMAP,Retinal markers (Lu 2020),Cones
+CCDC141,Retinal markers (Lu 2020),Cones
+MYL4,Retinal markers (Lu 2020),Cones
+FAM213A,Retinal markers (Lu 2020),Cones
+ENAH,Retinal markers (Lu 2020),Cones
+MCC,Retinal markers (Lu 2020),Cones
+SSTR2,Retinal markers (Lu 2020),Cones
+TTN,Retinal markers (Lu 2020),Cones
+NEAT1,Retinal markers (Lu 2020),Cones
+MT-CO2,Retinal markers (Lu 2020),Cones
+S100A6,Retinal markers (Lu 2020),Cones
+DST,Retinal markers (Lu 2020),Cones
+TMSB4X,Retinal markers (Lu 2020),Cones
+MT-CYB,Retinal markers (Lu 2020),Cones
+RBP4,Retinal markers (Lu 2020),Cones
+STRADB,Retinal markers (Lu 2020),Cones
+SPON2,Retinal markers (Lu 2020),Cones
+ROBO2,Retinal markers (Lu 2020),Cones
+GPX1,Retinal markers (Lu 2020),Cones
+PCAT4,Retinal markers (Lu 2020),Cones
+MT-ATP6,Retinal markers (Lu 2020),Cones
+CPLX1,Retinal markers (Lu 2020),Cones
+GNAT2,Retinal markers (Lu 2020),Cones
+MT-ND4,Retinal markers (Lu 2020),Cones
+CALB1,Retinal markers (Lu 2020),Cones
+S100A13,Retinal markers (Lu 2020),Cones
+CABP2,Retinal markers (Lu 2020),Cones
+SYT4,Retinal markers (Lu 2020),Cones
+SVBP,Retinal markers (Lu 2020),Cones
+MT-ND2,Retinal markers (Lu 2020),Cones
+CERKL,Retinal markers (Lu 2020),Cones
+PHACTR2,Retinal markers (Lu 2020),Cones
+DCX,Retinal markers (Lu 2020),Cones
+MT-ND1,Retinal markers (Lu 2020),Cones
+HDDC2,Retinal markers (Lu 2020),Cones
+MT-CO1,Retinal markers (Lu 2020),Cones
+EIF3E,Retinal markers (Lu 2020),Cones
+ISL2,Retinal markers (Lu 2020),Cones
+TXNIP,Retinal markers (Lu 2020),Cones
+MDFI,Retinal markers (Lu 2020),Cones
+GJD2,Retinal markers (Lu 2020),Cones
+MT-CO3,Retinal markers (Lu 2020),Cones
+CNGB3,Retinal markers (Lu 2020),Cones
+PPA1,Retinal markers (Lu 2020),Cones
+SIX6,Retinal markers (Lu 2020),Cones
+INHBB,Retinal markers (Lu 2020),Cones
+RAX,Retinal markers (Lu 2020),Cones
+CLTB,Retinal markers (Lu 2020),Cones
+SCN3B,Retinal markers (Lu 2020),Cones
+RPL18A,Retinal markers (Lu 2020),Cones
+NXPH4,Retinal markers (Lu 2020),Cones
+MT-ND5,Retinal markers (Lu 2020),Cones
+GUCY1A2,Retinal markers (Lu 2020),Cones
+CHRNB4,Retinal markers (Lu 2020),Cones
+LINC01315,Retinal markers (Lu 2020),Cones
+CTC-378H22.2,Retinal markers (Lu 2020),Cones
+NHLH1,Retinal markers (Lu 2020),Cones
+RPS16,Retinal markers (Lu 2020),Cones
+EEF1A1,Retinal markers (Lu 2020),Cones
+SLC25A6,Retinal markers (Lu 2020),Cones
+SMTN,Retinal markers (Lu 2020),Cones
+RPL19,Retinal markers (Lu 2020),Cones
+SPTSSA,Retinal markers (Lu 2020),Cones
+HIST3H2A,Retinal markers (Lu 2020),Cones
+RPL23A,Retinal markers (Lu 2020),Cones
+RAMP1,Retinal markers (Lu 2020),Cones
+CADPS,Retinal markers (Lu 2020),Cones
+TTC3,Retinal markers (Lu 2020),Cones
+FAM19A3,Retinal markers (Lu 2020),Cones
+RPLP0,Retinal markers (Lu 2020),Cones
+WWC1,Retinal markers (Lu 2020),Cones
+TPT1,Retinal markers (Lu 2020),Cones
+PBX1,Retinal markers (Lu 2020),Cones
+KCTD17,Retinal markers (Lu 2020),Cones
+ZHX1,Retinal markers (Lu 2020),Cones
+CPLX2,Retinal markers (Lu 2020),Cones
+PEPD,Retinal markers (Lu 2020),Cones
+HRASLS,Retinal markers (Lu 2020),Cones
+OLFM1,Retinal markers (Lu 2020),Cones
+WSCD1,Retinal markers (Lu 2020),Cones
+DUSP2,Retinal markers (Lu 2020),Cones
+DPP10-AS1,Retinal markers (Lu 2020),Cones
+INSM1,Retinal markers (Lu 2020),Cones
+HES6,Retinal markers (Lu 2020),Cones
+INSM2,Retinal markers (Lu 2020),Cones
+SEMA6D,Retinal markers (Lu 2020),Cones
+LINC01451,Retinal markers (Lu 2020),Cones
+CCDC88C,Retinal markers (Lu 2020),Cones
+NPTX1,Retinal markers (Lu 2020),Cones
+RPS3,Retinal markers (Lu 2020),Cones
+DPP10,Retinal markers (Lu 2020),Cones
+EPB41L4A-AS1,Retinal markers (Lu 2020),Cones
+RPL12,Retinal markers (Lu 2020),Cones
+RPL13A,Retinal markers (Lu 2020),Cones
+CNTN1,Retinal markers (Lu 2020),Cones
+RPS23,Retinal markers (Lu 2020),Cones
+TLE1,Retinal markers (Lu 2020),Cones
+NDUFV2,Retinal markers (Lu 2020),Cones
+RPS2,Retinal markers (Lu 2020),Cones
+MTHFD2,Retinal markers (Lu 2020),Cones
+MT-ND6,Retinal markers (Lu 2020),Cones
+SLC38A1,Retinal markers (Lu 2020),Cones
+RPS11,Retinal markers (Lu 2020),Cones
+PAFAH1B1,Retinal markers (Lu 2020),Cones
+DZIP3,Retinal markers (Lu 2020),Cones
+PEX5L,Retinal markers (Lu 2020),Cones
+CLN6,Retinal markers (Lu 2020),Cones
+PALMD,Retinal markers (Lu 2020),Cones
+SLC44A1,Retinal markers (Lu 2020),Cones
+ONECUT2,Retinal markers (Lu 2020),Cones
+FTL,Retinal markers (Lu 2020),Cones
+PCBD1,Retinal markers (Lu 2020),Cones
+NRXN1,Retinal markers (Lu 2020),Cones
+CBFB,Retinal markers (Lu 2020),Cones
+SH3BP5,Retinal markers (Lu 2020),Cones
+TMEM97,Retinal markers (Lu 2020),Cones
+KLHDC8B,Retinal markers (Lu 2020),Cones
+COTL1,Retinal markers (Lu 2020),Cones
+PPP1R14A,Retinal markers (Lu 2020),Cones
+RP11-849I19.1,Retinal markers (Lu 2020),Cones
+ATP6V1G1,Retinal markers (Lu 2020),Cones
+BTF3,Retinal markers (Lu 2020),Cones
+PDE1C,Retinal markers (Lu 2020),Cones
+WDR75,Retinal markers (Lu 2020),Cones
+TRAK2,Retinal markers (Lu 2020),Cones
+HIGD2A,Retinal markers (Lu 2020),Cones
+GDF11,Retinal markers (Lu 2020),Cones
+RPL36AL,Retinal markers (Lu 2020),Cones
+RPL14,Retinal markers (Lu 2020),Cones
+SALL3,Retinal markers (Lu 2020),Cones
+PEG10,Retinal markers (Lu 2020),Cones
+SLC24A2,Retinal markers (Lu 2020),Cones
+MORF4L2,Retinal markers (Lu 2020),Cones
+PFDN5,Retinal markers (Lu 2020),Cones
+DOC2B,Retinal markers (Lu 2020),Cones
+SARS,Retinal markers (Lu 2020),Cones
+MAP6,Retinal markers (Lu 2020),Cones
+NCKAP5,Retinal markers (Lu 2020),Cones
+ONECUT2,Retinal markers (Lu 2020),Horizontal Cells
+TFAP2B,Retinal markers (Lu 2020),Horizontal Cells
+CNTNAP2,Retinal markers (Lu 2020),Horizontal Cells
+LHX1,Retinal markers (Lu 2020),Horizontal Cells
+STMN2,Retinal markers (Lu 2020),Horizontal Cells
+ONECUT1,Retinal markers (Lu 2020),Horizontal Cells
+CACNG3,Retinal markers (Lu 2020),Horizontal Cells
+PROX1,Retinal markers (Lu 2020),Horizontal Cells
+STMN4,Retinal markers (Lu 2020),Horizontal Cells
+SOX4,Retinal markers (Lu 2020),Horizontal Cells
+ONECUT3,Retinal markers (Lu 2020),Horizontal Cells
+HMP19,Retinal markers (Lu 2020),Horizontal Cells
+PVALB,Retinal markers (Lu 2020),Horizontal Cells
+CXXC5,Retinal markers (Lu 2020),Horizontal Cells
+RTN1,Retinal markers (Lu 2020),Horizontal Cells
+TAGLN3,Retinal markers (Lu 2020),Horizontal Cells
+TNR,Retinal markers (Lu 2020),Horizontal Cells
+RP11-445F12.1,Retinal markers (Lu 2020),Horizontal Cells
+PLXNA2,Retinal markers (Lu 2020),Horizontal Cells
+PCDH9,Retinal markers (Lu 2020),Horizontal Cells
+ZEB2,Retinal markers (Lu 2020),Horizontal Cells
+TPM3,Retinal markers (Lu 2020),Horizontal Cells
+TMEFF2,Retinal markers (Lu 2020),Horizontal Cells
+C1QL1,Retinal markers (Lu 2020),Horizontal Cells
+RP11-96L14.7,Retinal markers (Lu 2020),Horizontal Cells
+TFAP2A,Retinal markers (Lu 2020),Horizontal Cells
+THSD7A,Retinal markers (Lu 2020),Horizontal Cells
+TLE4,Retinal markers (Lu 2020),Horizontal Cells
+CELF4,Retinal markers (Lu 2020),Horizontal Cells
+HTRA1,Retinal markers (Lu 2020),Horizontal Cells
+GRIA3,Retinal markers (Lu 2020),Horizontal Cells
+CDC42EP3,Retinal markers (Lu 2020),Horizontal Cells
+TUBB2B,Retinal markers (Lu 2020),Horizontal Cells
+BARHL2,Retinal markers (Lu 2020),Horizontal Cells
+PCSK1N,Retinal markers (Lu 2020),Horizontal Cells
+PPP1R1A,Retinal markers (Lu 2020),Horizontal Cells
+TMSB10,Retinal markers (Lu 2020),Horizontal Cells
+NHSL1,Retinal markers (Lu 2020),Horizontal Cells
+NDRG4,Retinal markers (Lu 2020),Horizontal Cells
+MAPT,Retinal markers (Lu 2020),Horizontal Cells
+C4orf48,Retinal markers (Lu 2020),Horizontal Cells
+TTC9B,Retinal markers (Lu 2020),Horizontal Cells
+B3GAT2,Retinal markers (Lu 2020),Horizontal Cells
+RP4-665J23.1,Retinal markers (Lu 2020),Horizontal Cells
+HN1,Retinal markers (Lu 2020),Horizontal Cells
+BASP1,Retinal markers (Lu 2020),Horizontal Cells
+MLLT11,Retinal markers (Lu 2020),Horizontal Cells
+GRIA4,Retinal markers (Lu 2020),Horizontal Cells
+HIST3H2A,Retinal markers (Lu 2020),Horizontal Cells
+PAX6,Retinal markers (Lu 2020),Horizontal Cells
+FAM107B,Retinal markers (Lu 2020),Horizontal Cells
+TMOD1,Retinal markers (Lu 2020),Horizontal Cells
+CNTN4,Retinal markers (Lu 2020),Horizontal Cells
+IGLON5,Retinal markers (Lu 2020),Horizontal Cells
+NKAIN2,Retinal markers (Lu 2020),Horizontal Cells
+GPR85,Retinal markers (Lu 2020),Horizontal Cells
+LMO1,Retinal markers (Lu 2020),Horizontal Cells
+SEPT4,Retinal markers (Lu 2020),Horizontal Cells
+CREB5,Retinal markers (Lu 2020),Horizontal Cells
+TANC1,Retinal markers (Lu 2020),Horizontal Cells
+APBB2,Retinal markers (Lu 2020),Horizontal Cells
+TUBB2A,Retinal markers (Lu 2020),Horizontal Cells
+RP3-431P23.5,Retinal markers (Lu 2020),Horizontal Cells
+MALAT1,Retinal markers (Lu 2020),Horizontal Cells
+EVL,Retinal markers (Lu 2020),Horizontal Cells
+TCEAL7,Retinal markers (Lu 2020),Horizontal Cells
+NTRK2,Retinal markers (Lu 2020),Horizontal Cells
+TRIB1,Retinal markers (Lu 2020),Horizontal Cells
+SCRT2,Retinal markers (Lu 2020),Horizontal Cells
+LMO4,Retinal markers (Lu 2020),Horizontal Cells
+COX6A1,Retinal markers (Lu 2020),Horizontal Cells
+CD24,Retinal markers (Lu 2020),Horizontal Cells
+PAK7,Retinal markers (Lu 2020),Horizontal Cells
+RUNX1T1,Retinal markers (Lu 2020),Horizontal Cells
+KIF5C,Retinal markers (Lu 2020),Horizontal Cells
+SEPT6,Retinal markers (Lu 2020),Horizontal Cells
+TMEM132A,Retinal markers (Lu 2020),Horizontal Cells
+C12orf49,Retinal markers (Lu 2020),Horizontal Cells
+LNP1,Retinal markers (Lu 2020),Horizontal Cells
+SEMA6A,Retinal markers (Lu 2020),Horizontal Cells
+SOSTDC1,Retinal markers (Lu 2020),Horizontal Cells
+DRD2,Retinal markers (Lu 2020),Horizontal Cells
+INA,Retinal markers (Lu 2020),Horizontal Cells
+SCG5,Retinal markers (Lu 2020),Horizontal Cells
+ARHGAP24,Retinal markers (Lu 2020),Horizontal Cells
+NDST3,Retinal markers (Lu 2020),Horizontal Cells
+MALT1,Retinal markers (Lu 2020),Horizontal Cells
+APP,Retinal markers (Lu 2020),Horizontal Cells
+NTRK1,Retinal markers (Lu 2020),Horizontal Cells
+SMPD3,Retinal markers (Lu 2020),Horizontal Cells
+SYNPR,Retinal markers (Lu 2020),Horizontal Cells
+NT5C3B,Retinal markers (Lu 2020),Horizontal Cells
+GNAZ,Retinal markers (Lu 2020),Horizontal Cells
+CAMK2N1,Retinal markers (Lu 2020),Horizontal Cells
+SORL1,Retinal markers (Lu 2020),Horizontal Cells
+CHRNA4,Retinal markers (Lu 2020),Horizontal Cells
+NNAT,Retinal markers (Lu 2020),Horizontal Cells
+TENM2,Retinal markers (Lu 2020),Horizontal Cells
+ETFB,Retinal markers (Lu 2020),Horizontal Cells
+CACNG7,Retinal markers (Lu 2020),Horizontal Cells
+ZNF385D,Retinal markers (Lu 2020),Horizontal Cells
+NSG1,Retinal markers (Lu 2020),Horizontal Cells
+TUBA1C,Retinal markers (Lu 2020),Horizontal Cells
+CRMP1,Retinal markers (Lu 2020),Horizontal Cells
+MEGF11,Retinal markers (Lu 2020),Horizontal Cells
+FAM84B,Retinal markers (Lu 2020),Horizontal Cells
+TUBB3,Retinal markers (Lu 2020),Horizontal Cells
+FEZ1,Retinal markers (Lu 2020),Horizontal Cells
+GALR2,Retinal markers (Lu 2020),Horizontal Cells
+PCBP3,Retinal markers (Lu 2020),Horizontal Cells
+MIR181A2HG,Retinal markers (Lu 2020),Horizontal Cells
+CHD5,Retinal markers (Lu 2020),Horizontal Cells
+MTSS1,Retinal markers (Lu 2020),Horizontal Cells
+ATP6V1F,Retinal markers (Lu 2020),Horizontal Cells
+C12orf75,Retinal markers (Lu 2020),Horizontal Cells
+DIXDC1,Retinal markers (Lu 2020),Horizontal Cells
+RBFOX2,Retinal markers (Lu 2020),Horizontal Cells
+MGST3,Retinal markers (Lu 2020),Horizontal Cells
+MARCKSL1,Retinal markers (Lu 2020),Horizontal Cells
+TUBA1A,Retinal markers (Lu 2020),Horizontal Cells
+RERE,Retinal markers (Lu 2020),Horizontal Cells
+SEMA6D,Retinal markers (Lu 2020),Horizontal Cells
+PTF1A,Retinal markers (Lu 2020),Horizontal Cells
+ADD2,Retinal markers (Lu 2020),Horizontal Cells
+TBC1D16,Retinal markers (Lu 2020),Horizontal Cells
+ERC1,Retinal markers (Lu 2020),Horizontal Cells
+SOCS2,Retinal markers (Lu 2020),Horizontal Cells
+ELAVL3,Retinal markers (Lu 2020),Horizontal Cells
+PHACTR1,Retinal markers (Lu 2020),Horizontal Cells
+RORB,Retinal markers (Lu 2020),Horizontal Cells
+CABP1,Retinal markers (Lu 2020),Horizontal Cells
+NREP,Retinal markers (Lu 2020),Horizontal Cells
+RNF24,Retinal markers (Lu 2020),Horizontal Cells
+DCX,Retinal markers (Lu 2020),Horizontal Cells
+CFL1,Retinal markers (Lu 2020),Horizontal Cells
+TRIM36,Retinal markers (Lu 2020),Horizontal Cells
+MEGF10,Retinal markers (Lu 2020),Horizontal Cells
+MRPL33,Retinal markers (Lu 2020),Horizontal Cells
+RNF220,Retinal markers (Lu 2020),Horizontal Cells
+KCNIP1,Retinal markers (Lu 2020),Horizontal Cells
+KCNJ3,Retinal markers (Lu 2020),Horizontal Cells
+RAB11FIP4,Retinal markers (Lu 2020),Horizontal Cells
+STMN1,Retinal markers (Lu 2020),Horizontal Cells
+TMSB15A,Retinal markers (Lu 2020),Horizontal Cells
+CD47,Retinal markers (Lu 2020),Horizontal Cells
+SULF2,Retinal markers (Lu 2020),Horizontal Cells
+LINGO1,Retinal markers (Lu 2020),Horizontal Cells
+ZNF821,Retinal markers (Lu 2020),Horizontal Cells
+MAB21L2,Retinal markers (Lu 2020),Horizontal Cells
+HK1,Retinal markers (Lu 2020),Horizontal Cells
+GPX3,Retinal markers (Lu 2020),Muller Glia
+TF,Retinal markers (Lu 2020),Muller Glia
+APOE,Retinal markers (Lu 2020),Muller Glia
+CRYAB,Retinal markers (Lu 2020),Muller Glia
+PTGDS,Retinal markers (Lu 2020),Muller Glia
+FRZB,Retinal markers (Lu 2020),Muller Glia
+NPVF,Retinal markers (Lu 2020),Muller Glia
+GLUL,Retinal markers (Lu 2020),Muller Glia
+CA2,Retinal markers (Lu 2020),Muller Glia
+WIF1,Retinal markers (Lu 2020),Muller Glia
+CLU,Retinal markers (Lu 2020),Muller Glia
+TRDN,Retinal markers (Lu 2020),Muller Glia
+SPP1,Retinal markers (Lu 2020),Muller Glia
+RLBP1,Retinal markers (Lu 2020),Muller Glia
+MT1G,Retinal markers (Lu 2020),Muller Glia
+GADD45B,Retinal markers (Lu 2020),Muller Glia
+CP,Retinal markers (Lu 2020),Muller Glia
+JUNB,Retinal markers (Lu 2020),Muller Glia
+MT2A,Retinal markers (Lu 2020),Muller Glia
+C1orf61,Retinal markers (Lu 2020),Muller Glia
+MT1X,Retinal markers (Lu 2020),Muller Glia
+ADIRF,Retinal markers (Lu 2020),Muller Glia
+ANKRD37,Retinal markers (Lu 2020),Muller Glia
+DUSP1,Retinal markers (Lu 2020),Muller Glia
+LINC00844,Retinal markers (Lu 2020),Muller Glia
+DKK3,Retinal markers (Lu 2020),Muller Glia
+CEBPD,Retinal markers (Lu 2020),Muller Glia
+RGR,Retinal markers (Lu 2020),Muller Glia
+NDUFA4L2,Retinal markers (Lu 2020),Muller Glia
+GPM6B,Retinal markers (Lu 2020),Muller Glia
+CRYM,Retinal markers (Lu 2020),Muller Glia
+ID2,Retinal markers (Lu 2020),Muller Glia
+AKAP12,Retinal markers (Lu 2020),Muller Glia
+PPP1R3C,Retinal markers (Lu 2020),Muller Glia
+RASD1,Retinal markers (Lu 2020),Muller Glia
+MT1E,Retinal markers (Lu 2020),Muller Glia
+NDRG2,Retinal markers (Lu 2020),Muller Glia
+MT3,Retinal markers (Lu 2020),Muller Glia
+LGALS3,Retinal markers (Lu 2020),Muller Glia
+MT1F,Retinal markers (Lu 2020),Muller Glia
+ITM2B,Retinal markers (Lu 2020),Muller Glia
+BTG2,Retinal markers (Lu 2020),Muller Glia
+BHLHE41,Retinal markers (Lu 2020),Muller Glia
+HES1,Retinal markers (Lu 2020),Muller Glia
+SPARCL1,Retinal markers (Lu 2020),Muller Glia
+ID3,Retinal markers (Lu 2020),Muller Glia
+TSC22D4,Retinal markers (Lu 2020),Muller Glia
+BHLHE40,Retinal markers (Lu 2020),Muller Glia
+PTN,Retinal markers (Lu 2020),Muller Glia
+RGS16,Retinal markers (Lu 2020),Muller Glia
+GSN,Retinal markers (Lu 2020),Muller Glia
+VIM,Retinal markers (Lu 2020),Muller Glia
+RHOC,Retinal markers (Lu 2020),Muller Glia
+GPR37,Retinal markers (Lu 2020),Muller Glia
+DDIT4,Retinal markers (Lu 2020),Muller Glia
+LIX1,Retinal markers (Lu 2020),Muller Glia
+AVPI1,Retinal markers (Lu 2020),Muller Glia
+SNX10,Retinal markers (Lu 2020),Muller Glia
+STAC2,Retinal markers (Lu 2020),Muller Glia
+CAV1,Retinal markers (Lu 2020),Muller Glia
+MT1M,Retinal markers (Lu 2020),Muller Glia
+FTH1,Retinal markers (Lu 2020),Muller Glia
+S100A13,Retinal markers (Lu 2020),Muller Glia
+PPA1,Retinal markers (Lu 2020),Muller Glia
+PRSS35,Retinal markers (Lu 2020),Muller Glia
+NEAT1,Retinal markers (Lu 2020),Muller Glia
+ASPH,Retinal markers (Lu 2020),Muller Glia
+FOS,Retinal markers (Lu 2020),Muller Glia
+SLC1A3,Retinal markers (Lu 2020),Muller Glia
+F3,Retinal markers (Lu 2020),Muller Glia
+RTN4,Retinal markers (Lu 2020),Muller Glia
+PCSK2,Retinal markers (Lu 2020),Muller Glia
+MT1H,Retinal markers (Lu 2020),Muller Glia
+ZFP36,Retinal markers (Lu 2020),Muller Glia
+CEBPB,Retinal markers (Lu 2020),Muller Glia
+IFITM3,Retinal markers (Lu 2020),Muller Glia
+HOPX,Retinal markers (Lu 2020),Muller Glia
+CYR61,Retinal markers (Lu 2020),Muller Glia
+PGM2,Retinal markers (Lu 2020),Muller Glia
+RGS2,Retinal markers (Lu 2020),Muller Glia
+MTTP,Retinal markers (Lu 2020),Muller Glia
+LGALS1,Retinal markers (Lu 2020),Muller Glia
+PSAP,Retinal markers (Lu 2020),Muller Glia
+CD81,Retinal markers (Lu 2020),Muller Glia
+GATB,Retinal markers (Lu 2020),Muller Glia
+S100A1,Retinal markers (Lu 2020),Muller Glia
+METRN,Retinal markers (Lu 2020),Muller Glia
+SLC2A1,Retinal markers (Lu 2020),Muller Glia
+TOB1,Retinal markers (Lu 2020),Muller Glia
+JUN,Retinal markers (Lu 2020),Muller Glia
+PRELP,Retinal markers (Lu 2020),Muller Glia
+ALDH9A1,Retinal markers (Lu 2020),Muller Glia
+CYCS,Retinal markers (Lu 2020),Muller Glia
+ID4,Retinal markers (Lu 2020),Muller Glia
+RARRES2,Retinal markers (Lu 2020),Muller Glia
+CAV2,Retinal markers (Lu 2020),Muller Glia
+PYGL,Retinal markers (Lu 2020),Muller Glia
+COL9A2,Retinal markers (Lu 2020),Muller Glia
+MNDA,Retinal markers (Lu 2020),Muller Glia
+ATF3,Retinal markers (Lu 2020),Muller Glia
+MYL9,Retinal markers (Lu 2020),Muller Glia
+NUPR1,Retinal markers (Lu 2020),Muller Glia
+HLA-C,Retinal markers (Lu 2020),Muller Glia
+HES5,Retinal markers (Lu 2020),Muller Glia
+NTRK2,Retinal markers (Lu 2020),Muller Glia
+SLN,Retinal markers (Lu 2020),Muller Glia
+DKK1,Retinal markers (Lu 2020),Muller Glia
+ATP1A1,Retinal markers (Lu 2020),Muller Glia
+NR4A1,Retinal markers (Lu 2020),Muller Glia
+ASAH1,Retinal markers (Lu 2020),Muller Glia
+GYG1,Retinal markers (Lu 2020),Muller Glia
+HILPDA,Retinal markers (Lu 2020),Muller Glia
+OAF,Retinal markers (Lu 2020),Muller Glia
+CD9,Retinal markers (Lu 2020),Muller Glia
+NUDT4,Retinal markers (Lu 2020),Muller Glia
+CFI,Retinal markers (Lu 2020),Muller Glia
+MAFF,Retinal markers (Lu 2020),Muller Glia
+LITAF,Retinal markers (Lu 2020),Muller Glia
+CDC42EP4,Retinal markers (Lu 2020),Muller Glia
+FXYD3,Retinal markers (Lu 2020),Muller Glia
+ITM2A,Retinal markers (Lu 2020),Muller Glia
+AQP4,Retinal markers (Lu 2020),Muller Glia
+C1QTNF3,Retinal markers (Lu 2020),Muller Glia
+RP11-1260E13.1,Retinal markers (Lu 2020),Muller Glia
+SLC2A3,Retinal markers (Lu 2020),Muller Glia
+ENO1,Retinal markers (Lu 2020),Muller Glia
+SAT1,Retinal markers (Lu 2020),Muller Glia
+MYO6,Retinal markers (Lu 2020),Muller Glia
+SLC25A4,Retinal markers (Lu 2020),Muller Glia
+UBC,Retinal markers (Lu 2020),Muller Glia
+IGFBP5,Retinal markers (Lu 2020),Muller Glia
+PLA2G16,Retinal markers (Lu 2020),Muller Glia
+LUM,Retinal markers (Lu 2020),Muller Glia
+ZNF331,Retinal markers (Lu 2020),Muller Glia
+SLC15A3,Retinal markers (Lu 2020),Muller Glia
+CLRN1,Retinal markers (Lu 2020),Muller Glia
+DDIT3,Retinal markers (Lu 2020),Muller Glia
+PBXIP1,Retinal markers (Lu 2020),Muller Glia
+ADD3,Retinal markers (Lu 2020),Muller Glia
+SOX8,Retinal markers (Lu 2020),Muller Glia
+HLA-A,Retinal markers (Lu 2020),Muller Glia
+NGFR,Retinal markers (Lu 2020),Muller Glia
+HSPA1A,Retinal markers (Lu 2020),Muller Glia
+B2M,Retinal markers (Lu 2020),Muller Glia
+LHX2,Retinal markers (Lu 2020),Muller Glia
+JARID2,Retinal markers (Lu 2020),Muller Glia
+KDR,Retinal markers (Lu 2020),Muller Glia
+RDH11,Retinal markers (Lu 2020),Muller Glia
+QDPR,Retinal markers (Lu 2020),Muller Glia
+HSPA1B,Retinal markers (Lu 2020),Muller Glia
+ATOH7,Retinal markers (Lu 2020),Neurogenic Cells
+HES6,Retinal markers (Lu 2020),Neurogenic Cells
+GAL,Retinal markers (Lu 2020),Neurogenic Cells
+GADD45A,Retinal markers (Lu 2020),Neurogenic Cells
+TRH,Retinal markers (Lu 2020),Neurogenic Cells
+RP3-395M20.12,Retinal markers (Lu 2020),Neurogenic Cells
+RGS16,Retinal markers (Lu 2020),Neurogenic Cells
+MIAT,Retinal markers (Lu 2020),Neurogenic Cells
+SH3BGRL3,Retinal markers (Lu 2020),Neurogenic Cells
+SOX11,Retinal markers (Lu 2020),Neurogenic Cells
+CXCR4,Retinal markers (Lu 2020),Neurogenic Cells
+FAM131C,Retinal markers (Lu 2020),Neurogenic Cells
+RBP1,Retinal markers (Lu 2020),Neurogenic Cells
+MDK,Retinal markers (Lu 2020),Neurogenic Cells
+HMGB2,Retinal markers (Lu 2020),Neurogenic Cells
+MFAP4,Retinal markers (Lu 2020),Neurogenic Cells
+SHD,Retinal markers (Lu 2020),Neurogenic Cells
+IDH2,Retinal markers (Lu 2020),Neurogenic Cells
+KIAA0101,Retinal markers (Lu 2020),Neurogenic Cells
+MIR217HG,Retinal markers (Lu 2020),Neurogenic Cells
+PLEKHA1,Retinal markers (Lu 2020),Neurogenic Cells
+DLL1,Retinal markers (Lu 2020),Neurogenic Cells
+ASCL1,Retinal markers (Lu 2020),Neurogenic Cells
+CCND1,Retinal markers (Lu 2020),Neurogenic Cells
+CCDC34,Retinal markers (Lu 2020),Neurogenic Cells
+MYBL1,Retinal markers (Lu 2020),Neurogenic Cells
+CKB,Retinal markers (Lu 2020),Neurogenic Cells
+TFDP2,Retinal markers (Lu 2020),Neurogenic Cells
+HES5,Retinal markers (Lu 2020),Neurogenic Cells
+HMGN2,Retinal markers (Lu 2020),Neurogenic Cells
+TCF4,Retinal markers (Lu 2020),Neurogenic Cells
+C8orf46,Retinal markers (Lu 2020),Neurogenic Cells
+TUBA1B,Retinal markers (Lu 2020),Neurogenic Cells
+H2AFZ,Retinal markers (Lu 2020),Neurogenic Cells
+LIMD2,Retinal markers (Lu 2020),Neurogenic Cells
+PMAIP1,Retinal markers (Lu 2020),Neurogenic Cells
+CKS1B,Retinal markers (Lu 2020),Neurogenic Cells
+PTTG1,Retinal markers (Lu 2020),Neurogenic Cells
+E2F1,Retinal markers (Lu 2020),Neurogenic Cells
+L1TD1,Retinal markers (Lu 2020),Neurogenic Cells
+GNG5,Retinal markers (Lu 2020),Neurogenic Cells
+MEST,Retinal markers (Lu 2020),Neurogenic Cells
+TYMS,Retinal markers (Lu 2020),Neurogenic Cells
+CARHSP1,Retinal markers (Lu 2020),Neurogenic Cells
+TMEM123,Retinal markers (Lu 2020),Neurogenic Cells
+ODC1,Retinal markers (Lu 2020),Neurogenic Cells
+RANBP1,Retinal markers (Lu 2020),Neurogenic Cells
+TMSB15A,Retinal markers (Lu 2020),Neurogenic Cells
+OLIG2,Retinal markers (Lu 2020),Neurogenic Cells
+PFN2,Retinal markers (Lu 2020),Neurogenic Cells
+RORB,Retinal markers (Lu 2020),Neurogenic Cells
+DLL4,Retinal markers (Lu 2020),Neurogenic Cells
+BTG3,Retinal markers (Lu 2020),Neurogenic Cells
+HNRNPH3,Retinal markers (Lu 2020),Neurogenic Cells
+HMGB1,Retinal markers (Lu 2020),Neurogenic Cells
+TMSB4X,Retinal markers (Lu 2020),Neurogenic Cells
+CCNB2,Retinal markers (Lu 2020),Neurogenic Cells
+CKS2,Retinal markers (Lu 2020),Neurogenic Cells
+UBE2S,Retinal markers (Lu 2020),Neurogenic Cells
+LGR4,Retinal markers (Lu 2020),Neurogenic Cells
+ENY2,Retinal markers (Lu 2020),Neurogenic Cells
+TPPP3,Retinal markers (Lu 2020),Neurogenic Cells
+IGFBP2,Retinal markers (Lu 2020),Neurogenic Cells
+IVNS1ABP,Retinal markers (Lu 2020),Neurogenic Cells
+H2AFV,Retinal markers (Lu 2020),Neurogenic Cells
+ONECUT2,Retinal markers (Lu 2020),Neurogenic Cells
+BAZ1A,Retinal markers (Lu 2020),Neurogenic Cells
+DLX2,Retinal markers (Lu 2020),Neurogenic Cells
+UBE2T,Retinal markers (Lu 2020),Neurogenic Cells
+RBPJ,Retinal markers (Lu 2020),Neurogenic Cells
+RAN,Retinal markers (Lu 2020),Neurogenic Cells
+TEAD2,Retinal markers (Lu 2020),Neurogenic Cells
+HMGB3,Retinal markers (Lu 2020),Neurogenic Cells
+TTC14,Retinal markers (Lu 2020),Neurogenic Cells
+CENPV,Retinal markers (Lu 2020),Neurogenic Cells
+SMC4,Retinal markers (Lu 2020),Neurogenic Cells
+NAP1L1,Retinal markers (Lu 2020),Neurogenic Cells
+SNRPB,Retinal markers (Lu 2020),Neurogenic Cells
+PTMA,Retinal markers (Lu 2020),Neurogenic Cells
+MAD2L1,Retinal markers (Lu 2020),Neurogenic Cells
+CLDN5,Retinal markers (Lu 2020),Neurogenic Cells
+NPM1,Retinal markers (Lu 2020),Neurogenic Cells
+NASP,Retinal markers (Lu 2020),Neurogenic Cells
+SOX2,Retinal markers (Lu 2020),Neurogenic Cells
+ZBTB18,Retinal markers (Lu 2020),Neurogenic Cells
+MCM7,Retinal markers (Lu 2020),Neurogenic Cells
+UCP2,Retinal markers (Lu 2020),Neurogenic Cells
+DOK5,Retinal markers (Lu 2020),Neurogenic Cells
+RP11-247C2.2,Retinal markers (Lu 2020),Neurogenic Cells
+NELL2,Retinal markers (Lu 2020),Neurogenic Cells
+UHRF1,Retinal markers (Lu 2020),Neurogenic Cells
+SNRPE,Retinal markers (Lu 2020),Neurogenic Cells
+RBMX,Retinal markers (Lu 2020),Neurogenic Cells
+CTPS1,Retinal markers (Lu 2020),Neurogenic Cells
+PRSS23,Retinal markers (Lu 2020),Neurogenic Cells
+NUSAP1,Retinal markers (Lu 2020),Neurogenic Cells
+CD9,Retinal markers (Lu 2020),Neurogenic Cells
+HNRNPAB,Retinal markers (Lu 2020),Neurogenic Cells
+BCL7A,Retinal markers (Lu 2020),Neurogenic Cells
+HNRNPA1,Retinal markers (Lu 2020),Neurogenic Cells
+RNF180,Retinal markers (Lu 2020),Neurogenic Cells
+EPHB2,Retinal markers (Lu 2020),Neurogenic Cells
+TOP2A,Retinal markers (Lu 2020),Neurogenic Cells
+GADD45G,Retinal markers (Lu 2020),Neurogenic Cells
+H1F0,Retinal markers (Lu 2020),Neurogenic Cells
+HES4,Retinal markers (Lu 2020),Neurogenic Cells
+CENPU,Retinal markers (Lu 2020),Neurogenic Cells
+CDK4,Retinal markers (Lu 2020),Neurogenic Cells
+TGFB2,Retinal markers (Lu 2020),Neurogenic Cells
+PTPRS,Retinal markers (Lu 2020),Neurogenic Cells
+DHFR,Retinal markers (Lu 2020),Neurogenic Cells
+BIRC5,Retinal markers (Lu 2020),Neurogenic Cells
+DEK,Retinal markers (Lu 2020),Neurogenic Cells
+SIVA1,Retinal markers (Lu 2020),Neurogenic Cells
+DBI,Retinal markers (Lu 2020),Neurogenic Cells
+RRM2,Retinal markers (Lu 2020),Neurogenic Cells
+PPIA,Retinal markers (Lu 2020),Neurogenic Cells
+NOTCH1,Retinal markers (Lu 2020),Neurogenic Cells
+HNRNPDL,Retinal markers (Lu 2020),Neurogenic Cells
+MFNG,Retinal markers (Lu 2020),Neurogenic Cells
+CNN3,Retinal markers (Lu 2020),Neurogenic Cells
+APEX1,Retinal markers (Lu 2020),Neurogenic Cells
+ZWINT,Retinal markers (Lu 2020),Neurogenic Cells
+DUT,Retinal markers (Lu 2020),Neurogenic Cells
+FBLN1,Retinal markers (Lu 2020),Neurogenic Cells
+SNRPD1,Retinal markers (Lu 2020),Neurogenic Cells
+SMCO4,Retinal markers (Lu 2020),Neurogenic Cells
+PCNA,Retinal markers (Lu 2020),Neurogenic Cells
+ANXA5,Retinal markers (Lu 2020),Neurogenic Cells
+FAM60A,Retinal markers (Lu 2020),Neurogenic Cells
+SMIM20,Retinal markers (Lu 2020),Neurogenic Cells
+CDK6,Retinal markers (Lu 2020),Neurogenic Cells
+EZH2,Retinal markers (Lu 2020),Neurogenic Cells
+C19orf48,Retinal markers (Lu 2020),Neurogenic Cells
+VSTM2B,Retinal markers (Lu 2020),Neurogenic Cells
+FADS1,Retinal markers (Lu 2020),Neurogenic Cells
+FRYL,Retinal markers (Lu 2020),Neurogenic Cells
+RPA3,Retinal markers (Lu 2020),Neurogenic Cells
+SRSF3,Retinal markers (Lu 2020),Neurogenic Cells
+DLL3,Retinal markers (Lu 2020),Neurogenic Cells
+MAD2L2,Retinal markers (Lu 2020),Neurogenic Cells
+SRP9,Retinal markers (Lu 2020),Neurogenic Cells
+PCDH19,Retinal markers (Lu 2020),Neurogenic Cells
+INSM1,Retinal markers (Lu 2020),Neurogenic Cells
+PABPC1,Retinal markers (Lu 2020),Neurogenic Cells
+PSMA4,Retinal markers (Lu 2020),Neurogenic Cells
+CSRP2,Retinal markers (Lu 2020),Neurogenic Cells
+REXO2,Retinal markers (Lu 2020),Neurogenic Cells
+ELAVL2,Retinal markers (Lu 2020),Neurogenic Cells
+IGFBP5,Retinal markers (Lu 2020),Neurogenic Cells
+RCVRN,Retinal markers (Lu 2020),PanPhotoreceptor
+NRL,Retinal markers (Lu 2020),PanPhotoreceptor
+PDC,Retinal markers (Lu 2020),PanPhotoreceptor
+ROM1,Retinal markers (Lu 2020),PanPhotoreceptor
+AIPL1,Retinal markers (Lu 2020),PanPhotoreceptor
+RP1,Retinal markers (Lu 2020),PanPhotoreceptor
+GUCA1A,Retinal markers (Lu 2020),PanPhotoreceptor
+KCNV2,Retinal markers (Lu 2020),PanPhotoreceptor
+UNC119,Retinal markers (Lu 2020),PanPhotoreceptor
+RBP3,Retinal markers (Lu 2020),PanPhotoreceptor
+GNB3,Retinal markers (Lu 2020),PanPhotoreceptor
+PDE6H,Retinal markers (Lu 2020),PanPhotoreceptor
+RAX2,Retinal markers (Lu 2020),PanPhotoreceptor
+MPP4,Retinal markers (Lu 2020),PanPhotoreceptor
+NEUROD1,Retinal markers (Lu 2020),PanPhotoreceptor
+RP11-184I16.4,Retinal markers (Lu 2020),PanPhotoreceptor
+CNGB1,Retinal markers (Lu 2020),PanPhotoreceptor
+RTBDN,Retinal markers (Lu 2020),PanPhotoreceptor
+IMPG1,Retinal markers (Lu 2020),PanPhotoreceptor
+TULP1,Retinal markers (Lu 2020),PanPhotoreceptor
+FAM161A,Retinal markers (Lu 2020),PanPhotoreceptor
+PRPH2,Retinal markers (Lu 2020),PanPhotoreceptor
+PLEKHB1,Retinal markers (Lu 2020),PanPhotoreceptor
+CRX,Retinal markers (Lu 2020),PanPhotoreceptor
+ARL4D,Retinal markers (Lu 2020),PanPhotoreceptor
+PRCD,Retinal markers (Lu 2020),PanPhotoreceptor
+RDH12,Retinal markers (Lu 2020),PanPhotoreceptor
+DCT,Retinal markers (Lu 2020),PanPhotoreceptor
+CRABP2,Retinal markers (Lu 2020),PanPhotoreceptor
+ELOVL4,Retinal markers (Lu 2020),PanPhotoreceptor
+CPLX4,Retinal markers (Lu 2020),PanPhotoreceptor
+SAMD11,Retinal markers (Lu 2020),PanPhotoreceptor
+EPB41L2,Retinal markers (Lu 2020),PanPhotoreceptor
+GADD45G,Retinal markers (Lu 2020),PanPhotoreceptor
+REEP6,Retinal markers (Lu 2020),PanPhotoreceptor
+PCBP4,Retinal markers (Lu 2020),PanPhotoreceptor
+FABP7,Retinal markers (Lu 2020),PanPhotoreceptor
+PRDM1,Retinal markers (Lu 2020),PanPhotoreceptor
+ENO2,Retinal markers (Lu 2020),PanPhotoreceptor
+LAPTM4B,Retinal markers (Lu 2020),PanPhotoreceptor
+OTX2,Retinal markers (Lu 2020),PanPhotoreceptor
+CPE,Retinal markers (Lu 2020),PanPhotoreceptor
+RS1,Retinal markers (Lu 2020),PanPhotoreceptor
+MARCH1,Retinal markers (Lu 2020),PanPhotoreceptor
+SLC40A1,Retinal markers (Lu 2020),PanPhotoreceptor
+TUBB4B,Retinal markers (Lu 2020),PanPhotoreceptor
+LOXL1,Retinal markers (Lu 2020),PanPhotoreceptor
+MRLN,Retinal markers (Lu 2020),PanPhotoreceptor
+FAM57B,Retinal markers (Lu 2020),PanPhotoreceptor
+IMPG2,Retinal markers (Lu 2020),PanPhotoreceptor
+PTP4A3,Retinal markers (Lu 2020),PanPhotoreceptor
+GUK1,Retinal markers (Lu 2020),PanPhotoreceptor
+SEPT4,Retinal markers (Lu 2020),PanPhotoreceptor
+MAK,Retinal markers (Lu 2020),PanPhotoreceptor
+PDE4DIP,Retinal markers (Lu 2020),PanPhotoreceptor
+AMER2,Retinal markers (Lu 2020),PanPhotoreceptor
+RIMS2,Retinal markers (Lu 2020),PanPhotoreceptor
+PROM1,Retinal markers (Lu 2020),PanPhotoreceptor
+STX3,Retinal markers (Lu 2020),PanPhotoreceptor
+FAIM,Retinal markers (Lu 2020),PanPhotoreceptor
+PDE6B,Retinal markers (Lu 2020),PanPhotoreceptor
+GNGT2,Retinal markers (Lu 2020),PanPhotoreceptor
+PRDX1,Retinal markers (Lu 2020),PanPhotoreceptor
+HIST1H1C,Retinal markers (Lu 2020),PanPhotoreceptor
+RXRG,Retinal markers (Lu 2020),PanPhotoreceptor
+EPS8,Retinal markers (Lu 2020),PanPhotoreceptor
+ATP1B2,Retinal markers (Lu 2020),PanPhotoreceptor
+SLC38A5,Retinal markers (Lu 2020),PanPhotoreceptor
+AKAP9,Retinal markers (Lu 2020),PanPhotoreceptor
+UBXN4,Retinal markers (Lu 2020),PanPhotoreceptor
+SYP,Retinal markers (Lu 2020),PanPhotoreceptor
+PIK3R1,Retinal markers (Lu 2020),PanPhotoreceptor
+CHCHD10,Retinal markers (Lu 2020),PanPhotoreceptor
+NEUROD4,Retinal markers (Lu 2020),PanPhotoreceptor
+TRAC,Retinal markers (Lu 2020),PanPhotoreceptor
+ANKRD33B,Retinal markers (Lu 2020),PanPhotoreceptor
+SELK,Retinal markers (Lu 2020),PanPhotoreceptor
+CHRNA3,Retinal markers (Lu 2020),PanPhotoreceptor
+TPD52,Retinal markers (Lu 2020),PanPhotoreceptor
+LINC00599,Retinal markers (Lu 2020),PanPhotoreceptor
+PKM,Retinal markers (Lu 2020),PanPhotoreceptor
+CABP4,Retinal markers (Lu 2020),PanPhotoreceptor
+KCNB1,Retinal markers (Lu 2020),PanPhotoreceptor
+CCDC181,Retinal markers (Lu 2020),PanPhotoreceptor
+TMEM244,Retinal markers (Lu 2020),PanPhotoreceptor
+HMGN1,Retinal markers (Lu 2020),PanPhotoreceptor
+SSX2IP,Retinal markers (Lu 2020),PanPhotoreceptor
+GSTP1,Retinal markers (Lu 2020),PanPhotoreceptor
+RP11-39E3.3,Retinal markers (Lu 2020),PanPhotoreceptor
+MOK,Retinal markers (Lu 2020),PanPhotoreceptor
+MAP1LC3B,Retinal markers (Lu 2020),PanPhotoreceptor
+RP11-395G23.3,Retinal markers (Lu 2020),PanPhotoreceptor
+PTPN13,Retinal markers (Lu 2020),PanPhotoreceptor
+AHI1,Retinal markers (Lu 2020),PanPhotoreceptor
+CDHR1,Retinal markers (Lu 2020),PanPhotoreceptor
+SLC1A7,Retinal markers (Lu 2020),PanPhotoreceptor
+MATK,Retinal markers (Lu 2020),PanPhotoreceptor
+ATP5A1,Retinal markers (Lu 2020),PanPhotoreceptor
+HS3ST3B1,Retinal markers (Lu 2020),PanPhotoreceptor
+DRD4,Retinal markers (Lu 2020),PanPhotoreceptor
+KIAA1107,Retinal markers (Lu 2020),PanPhotoreceptor
+BCL2L1,Retinal markers (Lu 2020),PanPhotoreceptor
+ARL6,Retinal markers (Lu 2020),PanPhotoreceptor
+ISOC1,Retinal markers (Lu 2020),PanPhotoreceptor
+KIAA1614,Retinal markers (Lu 2020),PanPhotoreceptor
+ABHD14A,Retinal markers (Lu 2020),PanPhotoreceptor
+TMX1,Retinal markers (Lu 2020),PanPhotoreceptor
+WRB,Retinal markers (Lu 2020),PanPhotoreceptor
+TMEM108,Retinal markers (Lu 2020),PanPhotoreceptor
+BAZ2B,Retinal markers (Lu 2020),PanPhotoreceptor
+LBH,Retinal markers (Lu 2020),PanPhotoreceptor
+ATP6V1B2,Retinal markers (Lu 2020),PanPhotoreceptor
+PLCH2,Retinal markers (Lu 2020),PanPhotoreceptor
+ITSN1,Retinal markers (Lu 2020),PanPhotoreceptor
+C16orf74,Retinal markers (Lu 2020),PanPhotoreceptor
+UBAP1L,Retinal markers (Lu 2020),PanPhotoreceptor
+PCMTD2,Retinal markers (Lu 2020),PanPhotoreceptor
+FSTL5,Retinal markers (Lu 2020),PanPhotoreceptor
+EYS,Retinal markers (Lu 2020),PanPhotoreceptor
+SLC6A6,Retinal markers (Lu 2020),PanPhotoreceptor
+VOPP1,Retinal markers (Lu 2020),PanPhotoreceptor
+SGIP1,Retinal markers (Lu 2020),PanPhotoreceptor
+FAM107A,Retinal markers (Lu 2020),PanPhotoreceptor
+GABARAPL1,Retinal markers (Lu 2020),PanPhotoreceptor
+AGPAT3,Retinal markers (Lu 2020),PanPhotoreceptor
+ANO2,Retinal markers (Lu 2020),PanPhotoreceptor
+PKIB,Retinal markers (Lu 2020),PanPhotoreceptor
+RALGPS2,Retinal markers (Lu 2020),PanPhotoreceptor
+CTBS,Retinal markers (Lu 2020),PanPhotoreceptor
+MPPED2,Retinal markers (Lu 2020),PanPhotoreceptor
+RD3,Retinal markers (Lu 2020),PanPhotoreceptor
+SRRM4,Retinal markers (Lu 2020),PanPhotoreceptor
+PGRMC2,Retinal markers (Lu 2020),PanPhotoreceptor
+R3HCC1,Retinal markers (Lu 2020),PanPhotoreceptor
+PRNP,Retinal markers (Lu 2020),PanPhotoreceptor
+ARL3,Retinal markers (Lu 2020),PanPhotoreceptor
+SYCE1L,Retinal markers (Lu 2020),PanPhotoreceptor
+LGALSL,Retinal markers (Lu 2020),PanPhotoreceptor
+SLC17A7,Retinal markers (Lu 2020),PanPhotoreceptor
+COL16A1,Retinal markers (Lu 2020),PanPhotoreceptor
+IFI27L2,Retinal markers (Lu 2020),PanPhotoreceptor
+PAQR4,Retinal markers (Lu 2020),PanPhotoreceptor
+UQCC2,Retinal markers (Lu 2020),PanPhotoreceptor
+C8orf46,Retinal markers (Lu 2020),PanPhotoreceptor
+COX17,Retinal markers (Lu 2020),PanPhotoreceptor
+H3F3B,Retinal markers (Lu 2020),PanPhotoreceptor
+GSE1,Retinal markers (Lu 2020),PanPhotoreceptor
+ADIPOR1,Retinal markers (Lu 2020),PanPhotoreceptor
+TMEM14B,Retinal markers (Lu 2020),PanPhotoreceptor
+IFT22,Retinal markers (Lu 2020),PanPhotoreceptor
+PRPH,Retinal markers (Lu 2020),Retinal Ganglion Cells
+GAP43,Retinal markers (Lu 2020),Retinal Ganglion Cells
+SNCG,Retinal markers (Lu 2020),Retinal Ganglion Cells
+ELAVL4,Retinal markers (Lu 2020),Retinal Ganglion Cells
+NEFL,Retinal markers (Lu 2020),Retinal Ganglion Cells
+NEFM,Retinal markers (Lu 2020),Retinal Ganglion Cells
+STMN2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+NSG1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+TUBA1A,Retinal markers (Lu 2020),Retinal Ganglion Cells
+NRN1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+SNCA,Retinal markers (Lu 2020),Retinal Ganglion Cells
+UCHL1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+TUBB2B,Retinal markers (Lu 2020),Retinal Ganglion Cells
+EBF1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+S100A10,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CNTN2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+TUBB2A,Retinal markers (Lu 2020),Retinal Ganglion Cells
+MLLT11,Retinal markers (Lu 2020),Retinal Ganglion Cells
+OLFM1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+TMSB10,Retinal markers (Lu 2020),Retinal Ganglion Cells
+C4orf48,Retinal markers (Lu 2020),Retinal Ganglion Cells
+DCX,Retinal markers (Lu 2020),Retinal Ganglion Cells
+PCSK1N,Retinal markers (Lu 2020),Retinal Ganglion Cells
+ATOH7,Retinal markers (Lu 2020),Retinal Ganglion Cells
+GNG3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+MAP1B,Retinal markers (Lu 2020),Retinal Ganglion Cells
+ELAVL2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+TUBB,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CD24,Retinal markers (Lu 2020),Retinal Ganglion Cells
+ISL1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+SOX11,Retinal markers (Lu 2020),Retinal Ganglion Cells
+SYT4,Retinal markers (Lu 2020),Retinal Ganglion Cells
+INA,Retinal markers (Lu 2020),Retinal Ganglion Cells
+HN1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+ACAT2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+SH3BGRL3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+POU4F2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+RGS10,Retinal markers (Lu 2020),Retinal Ganglion Cells
+HMGCS1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+TMSB4X,Retinal markers (Lu 2020),Retinal Ganglion Cells
+SCG5,Retinal markers (Lu 2020),Retinal Ganglion Cells
+RTN1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+C14orf132,Retinal markers (Lu 2020),Retinal Ganglion Cells
+SLC18A2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+NHLH2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+TAGLN3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CALM2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CRMP1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+RBPMS,Retinal markers (Lu 2020),Retinal Ganglion Cells
+GAL,Retinal markers (Lu 2020),Retinal Ganglion Cells
+PPP1R1A,Retinal markers (Lu 2020),Retinal Ganglion Cells
+KLF7,Retinal markers (Lu 2020),Retinal Ganglion Cells
+ELAVL3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+PAFAH1B3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+BASP1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+SQLE,Retinal markers (Lu 2020),Retinal Ganglion Cells
+FKBP1B,Retinal markers (Lu 2020),Retinal Ganglion Cells
+POU6F2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+YWHAH,Retinal markers (Lu 2020),Retinal Ganglion Cells
+TXN,Retinal markers (Lu 2020),Retinal Ganglion Cells
+DPYSL3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+STMN4,Retinal markers (Lu 2020),Retinal Ganglion Cells
+MAPT,Retinal markers (Lu 2020),Retinal Ganglion Cells
+EBF3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CDKN2D,Retinal markers (Lu 2020),Retinal Ganglion Cells
+RBFOX3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+MIAT,Retinal markers (Lu 2020),Retinal Ganglion Cells
+HEY1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CXADR,Retinal markers (Lu 2020),Retinal Ganglion Cells
+RP11-247C2.2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+FDFT1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+PGM2L1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CRABP1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+DPYSL2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CCNI,Retinal markers (Lu 2020),Retinal Ganglion Cells
+RBFOX2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+SCD,Retinal markers (Lu 2020),Retinal Ganglion Cells
+DYNLT1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+DLL3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+ATP1B1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+TMEM14A,Retinal markers (Lu 2020),Retinal Ganglion Cells
+KIF5C,Retinal markers (Lu 2020),Retinal Ganglion Cells
+KIF5A,Retinal markers (Lu 2020),Retinal Ganglion Cells
+ANK2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+POU4F1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CALM3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+TMEM97,Retinal markers (Lu 2020),Retinal Ganglion Cells
+PPP1R14B,Retinal markers (Lu 2020),Retinal Ganglion Cells
+STMN1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+GDAP1L1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CRIP2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+ALCAM,Retinal markers (Lu 2020),Retinal Ganglion Cells
+LY6H,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CALB2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CLDN5,Retinal markers (Lu 2020),Retinal Ganglion Cells
+NKAIN3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CXCR4,Retinal markers (Lu 2020),Retinal Ganglion Cells
+KLC1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+POU2F2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+IRX2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CHRNA3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+ACOT7,Retinal markers (Lu 2020),Retinal Ganglion Cells
+ACTB,Retinal markers (Lu 2020),Retinal Ganglion Cells
+ADCY1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+SVBP,Retinal markers (Lu 2020),Retinal Ganglion Cells
+MGST3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+VAT1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+HMGCR,Retinal markers (Lu 2020),Retinal Ganglion Cells
+MEG3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+TBCB,Retinal markers (Lu 2020),Retinal Ganglion Cells
+RAC3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+GLRX,Retinal markers (Lu 2020),Retinal Ganglion Cells
+NKAIN4,Retinal markers (Lu 2020),Retinal Ganglion Cells
+RAB6B,Retinal markers (Lu 2020),Retinal Ganglion Cells
+MSMO1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+KLHL35,Retinal markers (Lu 2020),Retinal Ganglion Cells
+TFAP2D,Retinal markers (Lu 2020),Retinal Ganglion Cells
+ETFB,Retinal markers (Lu 2020),Retinal Ganglion Cells
+KCNQ1OT1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+MVD,Retinal markers (Lu 2020),Retinal Ganglion Cells
+TUBA1C,Retinal markers (Lu 2020),Retinal Ganglion Cells
+DCC,Retinal markers (Lu 2020),Retinal Ganglion Cells
+RBPMS2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+SRGAP1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+ZC2HC1A,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CEND1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+YWHAG,Retinal markers (Lu 2020),Retinal Ganglion Cells
+DDAH2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+STMN3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+EDIL3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+IDI1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CDC42,Retinal markers (Lu 2020),Retinal Ganglion Cells
+YWHAZ,Retinal markers (Lu 2020),Retinal Ganglion Cells
+GDI1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+EPS8L1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+BRK1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+FDPS,Retinal markers (Lu 2020),Retinal Ganglion Cells
+PKIA,Retinal markers (Lu 2020),Retinal Ganglion Cells
+RBM3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+FNBP1L,Retinal markers (Lu 2020),Retinal Ganglion Cells
+FXYD6,Retinal markers (Lu 2020),Retinal Ganglion Cells
+IGFBP2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+RBP1,Retinal markers (Lu 2020),Retinal Ganglion Cells
+VSTM2L,Retinal markers (Lu 2020),Retinal Ganglion Cells
+SMAD9,Retinal markers (Lu 2020),Retinal Ganglion Cells
+KIDINS220,Retinal markers (Lu 2020),Retinal Ganglion Cells
+CCDC184,Retinal markers (Lu 2020),Retinal Ganglion Cells
+TUBB3,Retinal markers (Lu 2020),Retinal Ganglion Cells
+RAB6A,Retinal markers (Lu 2020),Retinal Ganglion Cells
+ANXA2,Retinal markers (Lu 2020),Retinal Ganglion Cells
+GNGT1,Retinal markers (Lu 2020),Rods
+RHO,Retinal markers (Lu 2020),Rods
+SAG,Retinal markers (Lu 2020),Rods
+PDE6G,Retinal markers (Lu 2020),Rods
+GNAT1,Retinal markers (Lu 2020),Rods
+NR2E3,Retinal markers (Lu 2020),Rods
+CNGA1,Retinal markers (Lu 2020),Rods
+PDE6A,Retinal markers (Lu 2020),Rods
+GNB1,Retinal markers (Lu 2020),Rods
+CLUL1,Retinal markers (Lu 2020),Rods
+ALDOC,Retinal markers (Lu 2020),Rods
+CABP5,Retinal markers (Lu 2020),Rods
+NTM,Retinal markers (Lu 2020),Rods
+YBX3,Retinal markers (Lu 2020),Rods
+MYO9A,Retinal markers (Lu 2020),Rods
+GPR160,Retinal markers (Lu 2020),Rods
+YPEL2,Retinal markers (Lu 2020),Rods
+MFGE8,Retinal markers (Lu 2020),Rods
+DDC,Retinal markers (Lu 2020),Rods
+HSPA1A,Retinal markers (Lu 2020),Rods
+HSPA1B,Retinal markers (Lu 2020),Rods
+PPP2R2B,Retinal markers (Lu 2020),Rods
+AF131216.6,Retinal markers (Lu 2020),Rods
+OSBP2,Retinal markers (Lu 2020),Rods
+DMD,Retinal markers (Lu 2020),Rods
+CADM2,Retinal markers (Lu 2020),Rods
+SAMD7,Retinal markers (Lu 2020),Rods
+RDH8,Retinal markers (Lu 2020),Rods
+SPINK4,Retinal markers (Lu 2020),Rods
+GPR137B,Retinal markers (Lu 2020),Rods
+PLA2G4C,Retinal markers (Lu 2020),Rods
+ELSPBP1,Retinal markers (Lu 2020),Rods
+TMEM91,Retinal markers (Lu 2020),Rods
+CITED2,Retinal markers (Lu 2020),Rods
+SNAP25,Retinal markers (Lu 2020),Rods
+TTC39C,Retinal markers (Lu 2020),Rods
+ARL6IP5,Retinal markers (Lu 2020),Rods
+DDB1,Retinal markers (Lu 2020),Rods
+ADD1,Retinal markers (Lu 2020),Rods
+DYX1C1,Retinal markers (Lu 2020),Rods
+CADM1,Retinal markers (Lu 2020),Rods
+MCUR1,Retinal markers (Lu 2020),Rods
+DAXX,Retinal markers (Lu 2020),Rods
+PPP3R1,Retinal markers (Lu 2020),Rods
+RP11-442N1.1,Retinal markers (Lu 2020),Rods
+SEC62,Retinal markers (Lu 2020),Rods
+PPEF2,Retinal markers (Lu 2020),Rods
+PRL,Retinal markers (Lu 2020),Rods
+TMEM237,Retinal markers (Lu 2020),Rods
+IMPDH1,Retinal markers (Lu 2020),Rods
+RP11-240M16.1,Retinal markers (Lu 2020),Rods
+ATP1A3,Retinal markers (Lu 2020),Rods
+HSP90AA1,Retinal markers (Lu 2020),Rods
+TMEM138,Retinal markers (Lu 2020),Rods
+RGS9,Retinal markers (Lu 2020),Rods
+GSKIP,Retinal markers (Lu 2020),Rods
+RP11-6E9.5,Retinal markers (Lu 2020),Rods
+HKR1,Retinal markers (Lu 2020),Rods
+ZNF385A,Retinal markers (Lu 2020),Rods
+CTD-2524L6.3,Retinal markers (Lu 2020),Rods
+KCNJ14,Retinal markers (Lu 2020),Rods
+VAMP2,Retinal markers (Lu 2020),Rods
+SCAPER,Retinal markers (Lu 2020),Rods
+EXOC6,Retinal markers (Lu 2020),Rods
+LRRC4C,Retinal markers (Lu 2020),Rods
+TFPI2,Retinal markers (Lu 2020),Rods
+SLC24A1,Retinal markers (Lu 2020),Rods
+RP11-431M3.2,Retinal markers (Lu 2020),Rods
+GNB5,Retinal markers (Lu 2020),Rods
+SVIP,Retinal markers (Lu 2020),Rods
+LPCAT1,Retinal markers (Lu 2020),Rods
+ATF4,Retinal markers (Lu 2020),Rods
+DTNBP1,Retinal markers (Lu 2020),Rods
+WAPL,Retinal markers (Lu 2020),Rods
+MSI1,Retinal markers (Lu 2020),Rods
+CCNG2,Retinal markers (Lu 2020),Rods
+SLC4A7,Retinal markers (Lu 2020),Rods
+ABCA4,Retinal markers (Lu 2020),Rods
+ANXA4,Retinal markers (Lu 2020),Rods
+VPS36,Retinal markers (Lu 2020),Rods
+SLC16A1,Retinal markers (Lu 2020),Rods
+SYNE2,Retinal markers (Lu 2020),Rods
+MTFR1,Retinal markers (Lu 2020),Rods
+BHLHE41,Retinal markers (Lu 2020),Rods
+USP2,Retinal markers (Lu 2020),Rods
+LENG8,Retinal markers (Lu 2020),Rods
+ANKRD33,Retinal markers (Lu 2020),Rods
+PIWIL1,Retinal markers (Lu 2020),Rods
+DNAJB1,Retinal markers (Lu 2020),Rods
+AC005550.3,Retinal markers (Lu 2020),Rods
+HSPA4,Retinal markers (Lu 2020),Rods
+FAM138E,Retinal markers (Lu 2020),Rods
+TOB2,Retinal markers (Lu 2020),Rods
+ARL6IP1,Retinal markers (Lu 2020),Rods
+PDCD4,Retinal markers (Lu 2020),Rods
+IGSF9,Retinal markers (Lu 2020),Rods
+TAOK3,Retinal markers (Lu 2020),Rods
+HTRA1,Retinal markers (Lu 2020),Rods
+TSPAN7,Retinal markers (Lu 2020),Rods
+ZNF385B,Retinal markers (Lu 2020),Rods
+DLG4,Retinal markers (Lu 2020),Rods
+PAG1,Retinal markers (Lu 2020),Rods
+NDRG3,Retinal markers (Lu 2020),Rods
+TMCC2,Retinal markers (Lu 2020),Rods
+C10orf10,Retinal markers (Lu 2020),Rods
+KIFC3,Retinal markers (Lu 2020),Rods
+SLC6A17,Retinal markers (Lu 2020),Rods
+LRRIQ1,Retinal markers (Lu 2020),Rods
+TPM1,Retinal markers (Lu 2020),Rods
+HPRT1,Retinal markers (Lu 2020),Rods
+SYDE2,Retinal markers (Lu 2020),Rods
+MBTPS1,Retinal markers (Lu 2020),Rods
+PNO1,Retinal markers (Lu 2020),Rods
+LRRC57,Retinal markers (Lu 2020),Rods
+ASB8,Retinal markers (Lu 2020),Rods
+MIR124-2HG,Retinal markers (Lu 2020),Rods
+AAK1,Retinal markers (Lu 2020),Rods
+NDRG1,Retinal markers (Lu 2020),Rods
+RASSF2,Retinal markers (Lu 2020),Rods
+UBC,Retinal markers (Lu 2020),Rods
+SEC22B,Retinal markers (Lu 2020),Rods
+GUCA1B,Retinal markers (Lu 2020),Rods
+CAPS2,Retinal markers (Lu 2020),Rods
+PFKP,Retinal markers (Lu 2020),Rods
+KDM5B,Retinal markers (Lu 2020),Rods
+PSIP1,Retinal markers (Lu 2020),Rods
+PLPP2,Retinal markers (Lu 2020),Rods
+LDHA,Retinal markers (Lu 2020),Rods
+FRMPD1,Retinal markers (Lu 2020),Rods
+HNRNPF,Retinal markers (Lu 2020),Rods
+CHD9,Retinal markers (Lu 2020),Rods
+RP11-499P20.2,Retinal markers (Lu 2020),Rods
+DPP3,Retinal markers (Lu 2020),Rods
+NIPAL1,Retinal markers (Lu 2020),Rods
+DDIT4,Retinal markers (Lu 2020),Rods
+IFI27,Retinal markers (Lu 2020),Rods
+WWC2-AS1,Retinal markers (Lu 2020),Rods
+SNTB2,Retinal markers (Lu 2020),Rods
+SEMA3A,Retinal markers (Lu 2020),Rods
+AC005863.1,Retinal markers (Lu 2020),Rods
+SRRM3,Retinal markers (Lu 2020),Rods
+ARL13B,Retinal markers (Lu 2020),Rods
+HIST2H2BE,Retinal markers (Lu 2020),Rods
+CALCOCO2,Retinal markers (Lu 2020),Rods
+MBNL2,Retinal markers (Lu 2020),Rods
+BCO2,Retinal markers (Lu 2020),Rods
+PARD6B,Retinal markers (Lu 2020),Rods
+UCKL1,Retinal markers (Lu 2020),Rods
+C2orf71,Retinal markers (Lu 2020),Rods
+USH2A,Retinal markers (Lu 2020),Rods
+SFRP2,Retinal markers (Lu 2020),RPCs
+CCND1,Retinal markers (Lu 2020),RPCs
+HES1,Retinal markers (Lu 2020),RPCs
+VIM,Retinal markers (Lu 2020),RPCs
+SOX2,Retinal markers (Lu 2020),RPCs
+ZFP36L1,Retinal markers (Lu 2020),RPCs
+CYP1B1,Retinal markers (Lu 2020),RPCs
+HMGB2,Retinal markers (Lu 2020),RPCs
+ZFP36L2,Retinal markers (Lu 2020),RPCs
+MDK,Retinal markers (Lu 2020),RPCs
+TTYH1,Retinal markers (Lu 2020),RPCs
+TOP2A,Retinal markers (Lu 2020),RPCs
+ASCL1,Retinal markers (Lu 2020),RPCs
+MEST,Retinal markers (Lu 2020),RPCs
+CYR61,Retinal markers (Lu 2020),RPCs
+CENPF,Retinal markers (Lu 2020),RPCs
+DAPL1,Retinal markers (Lu 2020),RPCs
+UBE2C,Retinal markers (Lu 2020),RPCs
+ID3,Retinal markers (Lu 2020),RPCs
+TYMS,Retinal markers (Lu 2020),RPCs
+HES4,Retinal markers (Lu 2020),RPCs
+PTTG1,Retinal markers (Lu 2020),RPCs
+KIAA0101,Retinal markers (Lu 2020),RPCs
+COL2A1,Retinal markers (Lu 2020),RPCs
+SAT1,Retinal markers (Lu 2020),RPCs
+IFITM3,Retinal markers (Lu 2020),RPCs
+SOX9,Retinal markers (Lu 2020),RPCs
+CKS2,Retinal markers (Lu 2020),RPCs
+TUBA1B,Retinal markers (Lu 2020),RPCs
+CKS1B,Retinal markers (Lu 2020),RPCs
+NUSAP1,Retinal markers (Lu 2020),RPCs
+SMC4,Retinal markers (Lu 2020),RPCs
+PLP1,Retinal markers (Lu 2020),RPCs
+RP11-89K21.1,Retinal markers (Lu 2020),RPCs
+CNN3,Retinal markers (Lu 2020),RPCs
+NAP1L1,Retinal markers (Lu 2020),RPCs
+PRSS23,Retinal markers (Lu 2020),RPCs
+EEF1D,Retinal markers (Lu 2020),RPCs
+B2M,Retinal markers (Lu 2020),RPCs
+MKI67,Retinal markers (Lu 2020),RPCs
+TMEM98,Retinal markers (Lu 2020),RPCs
+CCDC34,Retinal markers (Lu 2020),RPCs
+OSTC,Retinal markers (Lu 2020),RPCs
+CCNB2,Retinal markers (Lu 2020),RPCs
+MYB,Retinal markers (Lu 2020),RPCs
+ID1,Retinal markers (Lu 2020),RPCs
+CLIC1,Retinal markers (Lu 2020),RPCs
+EGR1,Retinal markers (Lu 2020),RPCs
+BAMBI,Retinal markers (Lu 2020),RPCs
+BIRC5,Retinal markers (Lu 2020),RPCs
+CMTM6,Retinal markers (Lu 2020),RPCs
+FOS,Retinal markers (Lu 2020),RPCs
+FZD5,Retinal markers (Lu 2020),RPCs
+DEK,Retinal markers (Lu 2020),RPCs
+JUN,Retinal markers (Lu 2020),RPCs
+GINS2,Retinal markers (Lu 2020),RPCs
+TRPM3,Retinal markers (Lu 2020),RPCs
+CDK1,Retinal markers (Lu 2020),RPCs
+H2AFZ,Retinal markers (Lu 2020),RPCs
+IGFBP2,Retinal markers (Lu 2020),RPCs
+PRSS35,Retinal markers (Lu 2020),RPCs
+RP3-395M20.12,Retinal markers (Lu 2020),RPCs
+ISYNA1,Retinal markers (Lu 2020),RPCs
+MAD2L1,Retinal markers (Lu 2020),RPCs
+RPS17,Retinal markers (Lu 2020),RPCs
+RPS6,Retinal markers (Lu 2020),RPCs
+LGR4,Retinal markers (Lu 2020),RPCs
+RPS3A,Retinal markers (Lu 2020),RPCs
+PMEPA1,Retinal markers (Lu 2020),RPCs
+DBI,Retinal markers (Lu 2020),RPCs
+SIVA1,Retinal markers (Lu 2020),RPCs
+TGIF1,Retinal markers (Lu 2020),RPCs
+HELLS,Retinal markers (Lu 2020),RPCs
+NASP,Retinal markers (Lu 2020),RPCs
+NES,Retinal markers (Lu 2020),RPCs
+LIMCH1,Retinal markers (Lu 2020),RPCs
+SEPP1,Retinal markers (Lu 2020),RPCs
+IFITM2,Retinal markers (Lu 2020),RPCs
+TMEM123,Retinal markers (Lu 2020),RPCs
+CD99,Retinal markers (Lu 2020),RPCs
+NR2E1,Retinal markers (Lu 2020),RPCs
+RAB31,Retinal markers (Lu 2020),RPCs
+CA14,Retinal markers (Lu 2020),RPCs
+MIS18BP1,Retinal markers (Lu 2020),RPCs
+ETV5,Retinal markers (Lu 2020),RPCs
+UBE2T,Retinal markers (Lu 2020),RPCs
+QDPR,Retinal markers (Lu 2020),RPCs
+DIO3,Retinal markers (Lu 2020),RPCs
+NPM1,Retinal markers (Lu 2020),RPCs
+NR2F1,Retinal markers (Lu 2020),RPCs
+CXCR4,Retinal markers (Lu 2020),RPCs
+FXYD1,Retinal markers (Lu 2020),RPCs
+HMGN3,Retinal markers (Lu 2020),RPCs
+TPPP3,Retinal markers (Lu 2020),RPCs
+KPNA2,Retinal markers (Lu 2020),RPCs
+CCNB1,Retinal markers (Lu 2020),RPCs
+GATB,Retinal markers (Lu 2020),RPCs
+RPL7,Retinal markers (Lu 2020),RPCs
+RARRES2,Retinal markers (Lu 2020),RPCs
+SIX6,Retinal markers (Lu 2020),RPCs
+UHRF1,Retinal markers (Lu 2020),RPCs
+MYO10,Retinal markers (Lu 2020),RPCs
+SLF1,Retinal markers (Lu 2020),RPCs
+CDCA7L,Retinal markers (Lu 2020),RPCs
+RPS2,Retinal markers (Lu 2020),RPCs
+RPL10A,Retinal markers (Lu 2020),RPCs
+RPS12,Retinal markers (Lu 2020),RPCs
+CDK4,Retinal markers (Lu 2020),RPCs
+RPLP1,Retinal markers (Lu 2020),RPCs
+COL9A1,Retinal markers (Lu 2020),RPCs
+SMIM20,Retinal markers (Lu 2020),RPCs
+S1PR3,Retinal markers (Lu 2020),RPCs
+AURKB,Retinal markers (Lu 2020),RPCs
+TFDP2,Retinal markers (Lu 2020),RPCs
+SEC11A,Retinal markers (Lu 2020),RPCs
+SNRPG,Retinal markers (Lu 2020),RPCs
+SPP1,Retinal markers (Lu 2020),RPCs
+RPS10,Retinal markers (Lu 2020),RPCs
+CRNDE,Retinal markers (Lu 2020),RPCs
+DUT,Retinal markers (Lu 2020),RPCs
+REST,Retinal markers (Lu 2020),RPCs
+COL4A2,Retinal markers (Lu 2020),RPCs
+RPS18,Retinal markers (Lu 2020),RPCs
+RPS15A,Retinal markers (Lu 2020),RPCs
+GNG5,Retinal markers (Lu 2020),RPCs
+RPL5,Retinal markers (Lu 2020),RPCs
+STON2,Retinal markers (Lu 2020),RPCs
+C19orf48,Retinal markers (Lu 2020),RPCs
+CDK6,Retinal markers (Lu 2020),RPCs
+ASPM,Retinal markers (Lu 2020),RPCs
+ZWINT,Retinal markers (Lu 2020),RPCs
+RPS24,Retinal markers (Lu 2020),RPCs
+TPX2,Retinal markers (Lu 2020),RPCs
+GGH,Retinal markers (Lu 2020),RPCs
+CALD1,Retinal markers (Lu 2020),RPCs
+PLPP3,Retinal markers (Lu 2020),RPCs
+CDC20,Retinal markers (Lu 2020),RPCs
+TSPAN6,Retinal markers (Lu 2020),RPCs
+TMSB15A,Retinal markers (Lu 2020),RPCs
+PLEKHA1,Retinal markers (Lu 2020),RPCs
+FABP5,Retinal markers (Lu 2020),RPCs
+RPS8,Retinal markers (Lu 2020),RPCs
+RPS4X,Retinal markers (Lu 2020),RPCs
+RPS7,Retinal markers (Lu 2020),RPCs
+RCN1,Retinal markers (Lu 2020),RPCs
+H2AFX,Retinal markers (Lu 2020),RPCs
+HES5,Retinal markers (Lu 2020),RPCs
+DHFR,Retinal markers (Lu 2020),RPCs
+CDKN3,Retinal markers (Lu 2020),RPCs
+LAPTM4A,Retinal markers (Lu 2020),RPCs

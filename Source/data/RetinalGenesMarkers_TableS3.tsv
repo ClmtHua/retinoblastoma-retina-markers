@@ -1,0 +1,250 @@
+ID	gene	term
+amacrine	BARHL2	amacrine
+amacrine	CABP1	amacrine
+amacrine	CAMKV	amacrine
+amacrine	ELAVL4	amacrine
+amacrine	FIBCD1	amacrine
+amacrine	GAD1	amacrine
+amacrine	GAD2	amacrine
+amacrine	LHX9	amacrine
+amacrine	PARD3	amacrine
+amacrine	PDGFRA	amacrine
+amacrine	PLXNA2	amacrine
+amacrine	PRDM13	amacrine
+amacrine	PRDM8	amacrine
+amacrine	RD3L	amacrine
+amacrine	RND3	amacrine
+amacrine	SLC32A1	amacrine
+amacrine	SNCA	amacrine
+amacrine	SYT6	amacrine
+amacrine	TFAP2A	amacrine
+amacrine	TFAP2B	amacrine
+amacrine	TFAP2C	amacrine
+amacrine	ZNF385D	amacrine
+amacrine	ZNF503	amacrine
+bipolar	CA10	bipolar
+bipolar	CABP1	bipolar
+bipolar	CABP5	bipolar
+bipolar	CHN2	bipolar
+bipolar	ESAM	bipolar
+bipolar	GABRR1	bipolar
+bipolar	GSG1	bipolar
+bipolar	IGF1	bipolar
+bipolar	ISL1	bipolar
+bipolar	LRTM1	bipolar
+bipolar	NETO1	bipolar
+bipolar	OTX2	bipolar
+bipolar	PCP2	bipolar
+bipolar	PLXDC1	bipolar
+bipolar	PRDM8	bipolar
+bipolar	RD3L	bipolar
+bipolar	SAMD5	bipolar
+bipolar	SAMSN1	bipolar
+bipolar	SLC4A10	bipolar
+bipolar	TMEM196	bipolar
+bipolar	TMEM215	bipolar
+bipolar	TRNP1	bipolar
+bipolar	TRPM1	bipolar
+bipolar	VSX1	bipolar
+bipolar	WFDC1	bipolar
+cone	ARR3	cone
+cone	ATOH7	cone
+cone	CNGB3	cone
+cone	GNAT2	cone
+cone	GUCA1C	cone
+cone	HRASLS	cone
+cone	ISL2	cone
+cone	MYL4	cone
+cone	NPTX1	cone
+cone	ONECUT3	cone
+cone	OPN1SW	cone
+cone	PCAT4	cone
+cone	PDE6C	cone
+cone	PDE6H	cone
+cone	PEX5L	cone
+cone	RRAD	cone
+cone	RXRG	cone
+cone	SLC44A1	cone
+cone	SMTN	cone
+cone	THRB	cone
+ganglion	ALCAM	ganglion
+ganglion	ATOH7	ganglion
+ganglion	CNTN2	ganglion
+ganglion	EBF1	ganglion
+ganglion	EBF3	ganglion
+ganglion	ELAVL4	ganglion
+ganglion	EOMES	ganglion
+ganglion	FKBP1B	ganglion
+ganglion	GAP43	ganglion
+ganglion	IRX2	ganglion
+ganglion	ISL1	ganglion
+ganglion	L1CAM	ganglion
+ganglion	NEFL	ganglion
+ganglion	NEFM	ganglion
+ganglion	NRN1	ganglion
+ganglion	POU4F1	ganglion
+ganglion	POU4F2	ganglion
+ganglion	PRPH	ganglion
+ganglion	RBPMS	ganglion
+ganglion	SLC17A6	ganglion
+ganglion	SNCA	ganglion
+ganglion	SNCG	ganglion
+ganglion	SRPX	ganglion
+ganglion	SYT13	ganglion
+ganglion	THY1	ganglion
+horizontal	BARHL2	horizontal
+horizontal	C1QL1	horizontal
+horizontal	CABP1	horizontal
+horizontal	CACNG3	horizontal
+horizontal	CACNG7	horizontal
+horizontal	CNTNAP2	horizontal
+horizontal	DRD2	horizontal
+horizontal	ELAVL4	horizontal
+horizontal	ESRRB	horizontal
+horizontal	GAD2	horizontal
+horizontal	GRIA3	horizontal
+horizontal	LHX1	horizontal
+horizontal	LNP1	horizontal
+horizontal	MEGF11	horizontal
+horizontal	NKAIN2	horizontal
+horizontal	ONECUT1	horizontal
+horizontal	ONECUT3	horizontal
+horizontal	PLXNA2	horizontal
+horizontal	SLC32A1	horizontal
+horizontal	SOSTDC1	horizontal
+horizontal	TFAP2A	horizontal
+horizontal	TFAP2B	horizontal
+horizontal	TMOD1	horizontal
+horizontal	TNR	horizontal
+horizontal	ZNF385D	horizontal
+muller glia	APOE	muller glia
+muller glia	AQP4	muller glia
+muller glia	CLU	muller glia
+muller glia	CP	muller glia
+muller glia	CRYAB	muller glia
+muller glia	CRYM	muller glia
+muller glia	FRZB	muller glia
+muller glia	GATB	muller glia
+muller glia	GLUL	muller glia
+muller glia	GPX3	muller glia
+muller glia	HES1	muller glia
+muller glia	HES5	muller glia
+muller glia	KCNJ10	muller glia
+muller glia	KDR	muller glia
+muller glia	LIX1	muller glia
+muller glia	NPVF	muller glia
+muller glia	PDGFRA	muller glia
+muller glia	PRSS35	muller glia
+muller glia	PTGDS	muller glia
+muller glia	RLBP1	muller glia
+muller glia	SAT1	muller glia
+muller glia	SLC1A3	muller glia
+muller glia	SOX9	muller glia
+muller glia	STAC2	muller glia
+muller glia	SULF1	muller glia
+muller glia	TF	muller glia
+muller glia	TRDN	muller glia
+muller glia	TSC22D4	muller glia
+muller glia	VIM	muller glia
+muller glia	WIF1	muller glia
+pan-photoreceptor	AIPL1	pan-photoreceptor
+pan-photoreceptor	CDHR1	pan-photoreceptor
+pan-photoreceptor	CNGB1	pan-photoreceptor
+pan-photoreceptor	CRX	pan-photoreceptor
+pan-photoreceptor	DOCK8	pan-photoreceptor
+pan-photoreceptor	EPS8	pan-photoreceptor
+pan-photoreceptor	GNGT2	pan-photoreceptor
+pan-photoreceptor	GUCA1A	pan-photoreceptor
+pan-photoreceptor	IMPG1	pan-photoreceptor
+pan-photoreceptor	MAOA	pan-photoreceptor
+pan-photoreceptor	MARCH1	pan-photoreceptor
+pan-photoreceptor	MATK	pan-photoreceptor
+pan-photoreceptor	MPP4	pan-photoreceptor
+pan-photoreceptor	OTX2	pan-photoreceptor
+pan-photoreceptor	PDC	pan-photoreceptor
+pan-photoreceptor	PDE6B	pan-photoreceptor
+pan-photoreceptor	PRDM1	pan-photoreceptor
+pan-photoreceptor	PRPH2	pan-photoreceptor
+pan-photoreceptor	RBP3	pan-photoreceptor
+pan-photoreceptor	RCVRN	pan-photoreceptor
+pan-photoreceptor	RP1	pan-photoreceptor
+pan-photoreceptor	RS1	pan-photoreceptor
+pan-photoreceptor	RTBDN	pan-photoreceptor
+pan-photoreceptor	TULP1	pan-photoreceptor
+pan-photoreceptor	GUCA1B	pan-photoreceptor
+rod	CABP5	rod
+rod	CLUL1	rod
+rod	CNGA1	rod
+rod	ESRRB	rod
+rod	GNAT1	rod
+rod	GNB1	rod
+rod	GNGT1	rod
+rod	MYO9A	rod
+rod	NR2E3	rod
+rod	NRL	rod
+rod	PDE6A	rod
+rod	PDE6G	rod
+rod	RHO	rod
+rod	SAG	rod
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA
+NA	NA	NA

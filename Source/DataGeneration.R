@@ -2,7 +2,7 @@
 library(Seurat)
 library(tidyverse)
 
-# Load dataa
+# Load data
 #setwd("Source/")
 RetinalGenes_GMT <- read_tsv("data/RetinalGenesMarkers_TableS3.tsv")
 
